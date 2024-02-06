@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user able to select the favorite store from selecy your store popup then selected store gets display at the header and click &amp; collect delivery section in PDP</description>
+   <name>TC_GeoLocal_24</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26a480b4-1ae0-42f5-850a-10591dc641c1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon-sum_plp</name>
+   <tag></tag>
+   <elementGuidId>e9f8e643-6718-4290-9bcd-8f7388aeabed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@class='a-plus__icon plp-plus__icon'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-sum</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f5cb17d9-84a5-42a0-a356-a19b37a3f11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-sum</value>
+      <webElementGuid>36075be9-1cb5-4169-b310-4e56a5614c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 p-2 p-lg-1&quot;]/div[@class=&quot;o-listing__products&quot;]/ul[@class=&quot;m-product__listingPlp&quot;]/li[@class=&quot;m-product__card card-masonry a&quot;]/figure[@class=&quot;m-figureCard__figure card m-plp-product-card m-card&quot;]/div[@class=&quot;o-card__image__container&quot;]/div[1]/div[@class=&quot;a-plp-color&quot;]/ul[1]/li[@class=&quot;a-plus__icon plp-plus__icon&quot;]/i[@class=&quot;icon-sum&quot;]</value>
+      <webElementGuid>e1d7328b-5faf-4acf-b54c-50e5171a488d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/main/div[2]/div/div/ul/li[12]/figure/div/div/div/ul/li[7]/i</value>
+      <webElementGuid>a1ac3344-cc8f-4d10-91b4-04ea33c70ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/i</value>
+      <webElementGuid>5c63c400-e2f7-4011-bc30-7589620c2365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

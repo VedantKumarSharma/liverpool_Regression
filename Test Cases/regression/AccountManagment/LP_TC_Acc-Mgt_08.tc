@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is navigated to the Registration page upon clicking the &quot;Crear Cuenta&quot; button in the &quot;Inicia Sesion&quot; overlay from the shopping cart page</description>
+   <name>LP_TC_Acc-Mgt_08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d7aa0aa-1306-4414-b8d3-f28037b55448</testCaseGuid>
+</TestCaseEntity>

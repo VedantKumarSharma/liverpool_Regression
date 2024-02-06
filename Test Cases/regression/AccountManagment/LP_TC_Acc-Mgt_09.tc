@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that, is user is able to Click the &quot;Comprar sin registro &quot;button</description>
+   <name>LP_TC_Acc-Mgt_09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e0866b0-6f62-456d-bdbc-46e72af66164</testCaseGuid>
+</TestCaseEntity>

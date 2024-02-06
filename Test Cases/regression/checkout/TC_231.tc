@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In One Page checkout, a customer will be able to delete a frequent store, this action is reflected in My profile.</description>
+   <name>TC_231</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93b6758e-89ce-47b5-848c-4e2575ce83a3</testCaseGuid>
+</TestCaseEntity>

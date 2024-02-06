@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify items with pickup express delivery flag gets display on selecting &quot;Recoge express&quot; filter checkbox in PLP</description>
+   <name>TC_GeoLocal_16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba6572b3-70ac-40b1-b34d-d70d2272687e</testCaseGuid>
+</TestCaseEntity>

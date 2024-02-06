@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In gift with purchase, the current rule should be that the gift is removed when the main product is removed from the bag.</description>
+   <name>TC_151</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d3be8f2-14a8-4da0-a11f-0b78f5e26f8f</testCaseGuid>
+</TestCaseEntity>

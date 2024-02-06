@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system should display the color swatch with variant products on the PDP. 
+Defect id - 8148
+Defect-4947</description>
+   <name>TC_BS_030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2f14a02-b43e-4a47-9b5e-0b34dd5b323f</testCaseGuid>
+</TestCaseEntity>

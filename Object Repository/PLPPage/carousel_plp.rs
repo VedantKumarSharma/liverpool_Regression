@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>carousel_plp</name>
+   <tag></tag>
+   <elementGuidId>90aa7ebb-a08a-450f-be06-1b4891461fb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultCarouselPlaceholder']/div/div/div/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.o-carousel.plpclp.my-carousel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>379add20-ee81-4a68-ba2d-ffc75ff7be50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-carousel plpclp my-carousel</value>
+      <webElementGuid>53636098-f83e-40a2-95d8-ccd41246c33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lo más visto Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425 Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425123</value>
+      <webElementGuid>c535a845-38bf-44e1-bd79-132257cf20fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultCarouselPlaceholder&quot;)/div[@class=&quot;container p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/section[@class=&quot;o-carousel plpclp my-carousel&quot;]</value>
+      <webElementGuid>1a409659-841a-4b82-91df-6423be113606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultCarouselPlaceholder']/div/div/div/section</value>
+      <webElementGuid>77ab36db-309e-4f54-9b5d-0b5a0e11be07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siguiente'])[1]/following::section[1]</value>
+      <webElementGuid>b1ef2896-5927-415b-8efc-481721bc1c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anterior'])[1]/following::section[1]</value>
+      <webElementGuid>49a5e0d7-ec94-4104-9aa1-45db0b636fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soporte al cliente'])[1]/preceding::section[11]</value>
+      <webElementGuid>5232051e-0bad-4c74-b8f0-20cfc681f8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/section</value>
+      <webElementGuid>f62d3cad-bc47-4807-b76b-7785d12e5dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Lo más visto Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425 Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425123' or . = 'Lo más visto Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425 Tenis Keds para mujer$1,89900$1,42425 Tenis K-Swiss Beverly para mujer$89900$67425 Tenis Guess Gwjaida2 para mujer$2,29900$1,72425 Tenis Guess Gwjacaly para mujer$2,29900$1,72425 Tenis Keds para mujer$2,09900$1,57425123')]</value>
+      <webElementGuid>88925cec-2c8e-4e83-aeb1-c509449f43e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

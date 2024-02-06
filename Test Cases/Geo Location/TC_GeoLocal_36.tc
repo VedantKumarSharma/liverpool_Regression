@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify saved address gets listed in change direction popup and on selecting, it gets displayed in &quot;ship home to&quot; delivery section</description>
+   <name>TC_GeoLocal_36</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7460810c-ac10-4c52-9545-b7e297655513</testCaseGuid>
+</TestCaseEntity>

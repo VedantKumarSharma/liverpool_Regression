@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;see details&quot; link gets display under listed store names in select your store popup and on clicking store details popup gets display</description>
+   <name>TC_GeoLocal_09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aafec9c-c5db-49b1-a56a-a632ea3965c9</testCaseGuid>
+</TestCaseEntity>

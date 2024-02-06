@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Enter the zip code&quot; popup gets display on clicking &quot;Enter the zip code&quot; link under &quot;ship home to&quot; delivery section</description>
+   <name>TC_GeoLocal_30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>102e498a-fedd-42d2-840d-4172e03ce2d2</testCaseGuid>
+</TestCaseEntity>

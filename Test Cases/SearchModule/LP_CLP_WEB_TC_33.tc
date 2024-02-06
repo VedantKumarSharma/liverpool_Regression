@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of &quot;Ver Mas&quot; button in Cartridge A in CLP</description>
+   <name>LP_CLP_WEB_TC_33</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>676f05a7-50e3-47b8-bbfa-08335b66bf58</testCaseGuid>
+</TestCaseEntity>

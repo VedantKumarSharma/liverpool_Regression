@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify user is allowed to add products to the Cart from Various Pages</description>
+   <name>TC_ShoppingCart_033</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bd03c69-e24c-42a1-9b5d-fb89f4d5743c</testCaseGuid>
+</TestCaseEntity>

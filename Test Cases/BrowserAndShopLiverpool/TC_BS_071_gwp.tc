@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of Regalo exclusivo online flag in PLP for the softline parent item with softline Gift item in WEB/WAP</description>
+   <name>TC_BS_071_gwp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bad70f6-c1b3-4dbb-9828-5de2b7ee6590</testCaseGuid>
+</TestCaseEntity>

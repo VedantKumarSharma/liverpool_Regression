@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product is preorder, special will show the legend &quot;Shipping will be made when the item is available&quot;, clicking on the button &quot;Buy now&quot; will send the product to the Express Checkout if it has inventory, if it does not have the message &quot; We do not have enough inventory ”only for softline products. Inventory validation will continue for both types of items.</description>
+   <name>TC_145</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae45482f-2ccf-4ed9-946e-9121667aad59</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user will be able to see in the Shopping bag section, a key with the title “Buy now” button in black at the SKU level that they will send to the Express Checkout only with the related item in case it has enough stock for WEB.</description>
+   <name>TC_131</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2779f060-78b1-478c-bf34-401fd0e3e15b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EDD gets display for the added SL item in OPC</description>
+   <name>TC_GeoLocal_60</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8361336f-8ab4-40e5-a5b4-945d85388b10</testCaseGuid>
+</TestCaseEntity>

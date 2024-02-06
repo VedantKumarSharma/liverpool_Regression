@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify express delivery flag is not applicable for BT item</description>
+   <name>TC_GeoLocal_41</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64959948-73a2-445d-890b-c5ecb8adae3d</testCaseGuid>
+</TestCaseEntity>

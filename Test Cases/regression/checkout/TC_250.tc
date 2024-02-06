@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a customer changes the shipping method in One Page checkout, an alert should appear showing that the shipping method has been updated. In case of changing the shipping method within the list of addresses, this alert will not appear.</description>
+   <name>TC_250</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d27073ce-1577-4482-ba09-a3871435acd0</testCaseGuid>
+</TestCaseEntity>

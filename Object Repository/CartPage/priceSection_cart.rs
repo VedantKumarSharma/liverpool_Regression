@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>priceSection_cart</name>
+   <tag></tag>
+   <elementGuidId>7df9492c-dfc1-4b24-becd-29fb875692b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='m-breakdownExpenses']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.t-myBag__breakdownExpenses.col-xl-12.col-sm-12.col-md-12.col-lg-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b3ca25c-7084-4d79-a51a-8932394e21b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-myBag__breakdownExpenses col-xl-12 col-sm-12 col-md-12 col-lg-12</value>
+      <webElementGuid>036676a9-e5d8-493c-bf71-e4b24bace609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subtotal (1 productos):Descuento:Cupones:Costo de envío:$1,799.00$0.00$0.00GratisTotal (IVA incluido):$1,799.00*Los precios aplican de acuerdo a forma de pago.Comprar</value>
+      <webElementGuid>06a7be73-7cb3-42d7-be20-3d93178adc34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;cart-alert-top&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;rowE&quot;]/div[@class=&quot;t_myBag_cards-right col-xl-4 col-sm-4 col-md-4 col-lg-4false&quot;]/div[@class=&quot;rowE&quot;]/div[@class=&quot;t-myBag__breakdownExpenses col-xl-12 col-sm-12 col-md-12 col-lg-12&quot;]</value>
+      <webElementGuid>8d11a8d7-ea4f-41b9-b49a-5ed31bfe1b1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/div[2]/div/div</value>
+      <webElementGuid>61ab55df-1262-4f9a-8e97-03cb87e8227b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[2]/following::div[3]</value>
+      <webElementGuid>626f0a0f-639a-4448-87d3-b2d55e542d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mover a Wishlist'])[2]/following::div[3]</value>
+      <webElementGuid>b3e2c970-fd0e-4764-b4f1-d38e630ba664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complementa tu compra'])[1]/preceding::div[20]</value>
+      <webElementGuid>418e352c-6dc3-479f-b7c5-e39c1d3f4661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div[2]/div/div</value>
+      <webElementGuid>8355427e-58ec-41b3-aca7-d642b5378f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Subtotal (1 productos):Descuento:Cupones:Costo de envío:$1,799.00$0.00$0.00GratisTotal (IVA incluido):$1,799.00*Los precios aplican de acuerdo a forma de pago.Comprar' or . = 'Subtotal (1 productos):Descuento:Cupones:Costo de envío:$1,799.00$0.00$0.00GratisTotal (IVA incluido):$1,799.00*Los precios aplican de acuerdo a forma de pago.Comprar')]</value>
+      <webElementGuid>60e14136-1327-4d79-99ec-ee82112c1851</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

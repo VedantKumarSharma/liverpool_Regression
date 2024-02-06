@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify the Swatches in round &amp; the functionality of Swatches for regular products in Product Listing Page and search results page
+
+ 
+
+ &quot;</description>
+   <name>TC_BS_385</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c598d76-3b51-46f7-aa43-6f2527becf1b</testCaseGuid>
+</TestCaseEntity>

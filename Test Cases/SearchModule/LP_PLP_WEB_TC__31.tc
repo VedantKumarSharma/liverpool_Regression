@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Carousel navigation arrows in  Recommended products slot in PLP</description>
+   <name>LP_PLP_WEB_TC__31</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea6a40f5-cc26-4a49-9d07-34159b795d12</testCaseGuid>
+</TestCaseEntity>

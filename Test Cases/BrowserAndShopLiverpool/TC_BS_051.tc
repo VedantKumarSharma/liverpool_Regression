@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify that the user is allowed to view the alternate images of products on PDP &amp; 
+verify the user is display and display of the alternate images of products on PDP.
+Defect-4909&quot;</description>
+   <name>TC_BS_051</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fb7f226-d719-4041-a5ea-f8dd2123b46c</testCaseGuid>
+</TestCaseEntity>

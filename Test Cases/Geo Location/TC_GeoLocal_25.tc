@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify delivery flag that depends on availability with &quot;view other store&quot; link, EDD and comprar button gets display under click and collect delivery section</description>
+   <name>TC_GeoLocal_25</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11adba3e-4293-4b8d-ad76-a50f974eabc0</testCaseGuid>
+</TestCaseEntity>

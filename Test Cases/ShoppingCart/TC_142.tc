@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product has a minimum purchase condition, the legend &quot;Minimum purchase N pieces&quot; will be shown. Clicking on the &quot;Buy now&quot; button will send the product with the minimum quantity or a quantity greater than the minimum quantity selected to the Express Checkout if it has stock, if it hasn´t, the alert We do not have enough inventory will appear only for softline products, for big tickets inventory will not be validated..</description>
+   <name>TC_142</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b590216-6bcd-4e7c-ac03-9819de029a13</testCaseGuid>
+</TestCaseEntity>

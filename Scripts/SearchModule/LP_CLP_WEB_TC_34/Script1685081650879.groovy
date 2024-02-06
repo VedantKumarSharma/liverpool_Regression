@@ -1,0 +1,57 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL2)
+
+WebUI.mouseOver(findTestObject('HomePage/CategorasDropDown_HP'))
+
+WebUI.click(findTestObject('HomePage/L1_category_18_HP'))
+
+WebUI.callTestCase(findTestCase('CommonMethods/assert_L1_CLP'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('CLPPage/ver_mas2_CLP'), 0)
+
+a = WebUI.getText(findTestObject('CLPPage/ver_mas2_CLP'), FailureHandling.STOP_ON_FAILURE)
+
+a1 = a.toLowerCase()
+
+def substringToRemove = '\nver más >'
+
+def a2 = a1.replace(substringToRemove, '')
+
+System.out.println(a2)
+
+WebUI.click(findTestObject('CLPPage/ver_masButton2_CLP'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('CommonMethods/assertplp'), [:], FailureHandling.STOP_ON_FAILURE)
+
+b = WebUI.getText(findTestObject('PLPPage/BreadCrumbCurrentPage_PLP'))
+
+b1 = b.toLowerCase()
+
+System.out.println(b1)
+
+if (a2 == b1) {
+    System.out.println('checked')
+}
+
+WebUI.closeBrowser()
+

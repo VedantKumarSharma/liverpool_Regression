@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product is a big ticket, clicking on the text &quot;buy now&quot; will not validate the stock from the bag and will redirect Express Checkout with the item.</description>
+   <name>TC_140</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c39d318-f324-4645-bec8-3b1d0b4f43a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of the maximum 6 color swatches in the product listing page</description>
+   <name>TC_BS_039</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a619a0a5-d144-45ab-9f6b-369a462d5109</testCaseGuid>
+</TestCaseEntity>

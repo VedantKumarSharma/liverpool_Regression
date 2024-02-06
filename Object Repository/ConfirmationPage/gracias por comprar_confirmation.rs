@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gracias por comprar_confirmation</name>
+   <tag></tag>
+   <elementGuidId>ce673b57-d718-49a1-adf5-085638efb438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='confirmation-section__gratitude']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.confirmation-section__gratitude</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e8e143b-4dd8-4c38-94e9-85a4320a49bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmation-section__gratitude</value>
+      <webElementGuid>7a7d419b-268e-4177-8e51-651d19ea1cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¡sudha rani, gracias por comprar!</value>
+      <webElementGuid>d64fedf0-4616-454b-a22f-79cebc51f058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-confirmation-page&quot;)/div[@class=&quot;m-box section-container&quot;]/div[@class=&quot;confirmation-section&quot;]/div[@class=&quot;confirmation-section__gratitude&quot;]</value>
+      <webElementGuid>eeda1d34-bd59-4f5c-80ef-a3eeb82f52fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-confirmation-page']/div/div/div[2]</value>
+      <webElementGuid>88fa85af-356c-4247-8e02-7d316ec79ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='liverpool_3dreview@outlook.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>6614ef6d-23db-4fb0-9c40-2cff69ac6d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis compras'])[1]/preceding::div[1]</value>
+      <webElementGuid>379099bb-c34d-46db-b88d-6ef791383b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡sudha rani, gracias por comprar!']/parent::*</value>
+      <webElementGuid>baf3b5df-4601-4798-af8d-7b3b010a60a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>dd7839f7-e8fd-4a17-9773-670dc34ee22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¡sudha rani, gracias por comprar!' or . = '¡sudha rani, gracias por comprar!')]</value>
+      <webElementGuid>fdd090e8-64e2-4c81-813b-8dde7538ca4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

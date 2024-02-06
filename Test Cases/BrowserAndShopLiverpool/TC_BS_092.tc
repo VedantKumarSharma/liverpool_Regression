@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the ability of selecting the gift items from the dropdown on the PDP page</description>
+   <name>TC_BS_092</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>5f2d6fe3-179b-4136-920e-9103d0ce4b71</testCaseGuid>
+</TestCaseEntity>

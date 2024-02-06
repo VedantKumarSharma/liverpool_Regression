@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the item has a gift, clicking on the &quot;Buy Now&quot; button will send both products to the Express Checkout if both softline items have inventory, if any item does not have inventory, it will send the message &quot;We do not have enough inventory ”</description>
+   <name>TC_146</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29d16c90-eee3-4f57-ac72-56e37b30de0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>244f4a17-4394-458e-9066-059a548372ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://odtaqab.liverpool.com.mx/tienda/oneCheckout\r\n'</defaultValue>
+      <description></description>
+      <id>244f4a17-4394-458e-9066-059a548372ad</id>
+      <masked>false</masked>
+      <name>Link</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the preselection of SL GIFT items in the gift list drop down for a BT PARENT item having multiple variants with first SL GIFT item selected</description>
+   <name>TC_BS_086</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>0a513b22-7355-452e-8d1b-eff0583d197d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In the event that a store was selected as the default for the user and it was deleted, the user will lose that store as the default and the system would not select any other store as the default or any other address that it has registered.</description>
+   <name>TC_291</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55342a39-9908-42bd-b769-4717188ac546</testCaseGuid>
+</TestCaseEntity>

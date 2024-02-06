@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify Logged in User is able add Delivery address from Direcciones de Entrega link in account page</description>
+   <name>LP_TC_Acc-Mgt_11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a177eab3-9082-4753-a3f3-004d90c92732</testCaseGuid>
+</TestCaseEntity>

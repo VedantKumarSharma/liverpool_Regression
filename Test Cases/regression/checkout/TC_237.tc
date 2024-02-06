@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A customer should not have the option to edit a C&amp;C store</description>
+   <name>TC_237</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2b519dc-776d-42cc-94a1-6c0990af7e05</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the client is entering a new address in the form, he must have the option of being able to predetermine said address, for this it must be validated that the alias is not assigned in another saved address, additional, this action will save the address in my account by clicking on the “continue” button from One page checkout  regardless of the customer not clicking on “save address”, at the same time it will pre-determine the shipping method.</description>
+   <name>TC_174</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b926f17-52a7-4c6b-9e04-5a9ad830fc29</testCaseGuid>
+</TestCaseEntity>

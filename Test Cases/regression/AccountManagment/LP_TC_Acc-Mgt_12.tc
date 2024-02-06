@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify updated address is reflected in the Delivery addresses section in the customer’s profile.</description>
+   <name>LP_TC_Acc-Mgt_12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c161c50c-3231-4377-a93c-3872f8d7f8f5</testCaseGuid>
+</TestCaseEntity>

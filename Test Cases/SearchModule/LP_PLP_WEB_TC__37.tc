@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the format of the URL when user search for a product</description>
+   <name>LP_PLP_WEB_TC__37</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66f200a7-cce4-437d-9c54-3620307f3a9f</testCaseGuid>
+</TestCaseEntity>

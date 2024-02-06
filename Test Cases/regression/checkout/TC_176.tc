@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a new delivery shipping address is predetermined from the list of addresses, that address will be chosen as the shipping method for the purchase and the legend &quot;default&quot; will be displayed in the same list.</description>
+   <name>TC_176</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66d9f411-7636-49dd-88f0-e516d7e7e490</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the newly placed order is displayed in the Order History page.</description>
+   <name>TC_Checkout_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7318a4ca-1514-4566-8128-e858e411bac9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08ac36ec-1131-412f-be0f-5885ea967550</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e450741b-cdc9-445a-b5d1-f2cd511af7e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c33a626-b491-4a85-92e5-7c3fc777971b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08ac36ec-1131-412f-be0f-5885ea967550</id>
+      <masked>false</masked>
+      <name>referenceNumber_confirmation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e450741b-cdc9-445a-b5d1-f2cd511af7e0</id>
+      <masked>false</masked>
+      <name>actualConfirmationUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c33a626-b491-4a85-92e5-7c3fc777971b</id>
+      <masked>false</masked>
+      <name>actualMisComprasUrl</name>
+   </variable>
+</TestCaseEntity>

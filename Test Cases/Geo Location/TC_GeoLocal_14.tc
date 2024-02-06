@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify flash filters section gets display when user selects favourite store in PLP</description>
+   <name>TC_GeoLocal_14</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdaf3b55-47c3-48aa-b509-3b6215c54644</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Polticas_PDP</name>
+   <tag></tag>
+   <elementGuidId>b5b54632-ef0f-4962-9f63-647303791961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mdc-tab__ripple mdc-ripple-upgraded'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2003a814-9fb8-47ac-9392-297ba78e25d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-tab__ripple mdc-ripple-upgraded</value>
+      <webElementGuid>dd1adf25-7308-43e4-bc92-6b5a7c5f5fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o-product__productSpecsDetails&quot;)/div[1]/div[@class=&quot;col-7&quot;]/div[@class=&quot;mdc-tab-bar&quot;]/div[@class=&quot;mdc-tab-scroller&quot;]/div[@class=&quot;mdc-tab-scroller__scroll-area mdc-tab-scroller__scroll-area--scroll&quot;]/div[@class=&quot;mdc-tab-scroller__scroll-content tabsOverFlow&quot;]/button[@id=&quot;mdc-tab-3&quot;]/span[@class=&quot;mdc-tab__ripple mdc-ripple-upgraded&quot;]</value>
+      <webElementGuid>f57b0008-63f1-40da-a656-dc1792dcaa75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='mdc-tab-3']/span[3])[2]</value>
+      <webElementGuid>7ff14b14-958d-4e5e-81e1-5749c6321307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[3]</value>
+      <webElementGuid>46860ab6-19f1-4b4e-83be-ddbdf8a72599</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the UI of Recommended Products slot for both Most Viewed and Most Sold in PLP  of selected category for logged-in/anonymous user which is configured in Endeca</description>
+   <name>LP_PLP_WEB_TC__24</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6901d772-868d-416d-85a2-a4cc9e228573</testCaseGuid>
+</TestCaseEntity>

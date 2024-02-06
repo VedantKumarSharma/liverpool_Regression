@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the system navigation when user click on the &quot;Termina Compra&quot; button on the  &quot;Confirma tu compra&quot; page.</description>
+   <name>TC_Checkout_01</name>
+   <tag>confirmation</tag>
+   <comment></comment>
+   <testCaseGuid>ec1a72d1-f775-443c-be98-2ea3e5b686c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46cdfa71-f1cc-4564-997d-2cd056ae8691</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46cdfa71-f1cc-4564-997d-2cd056ae8691</id>
+      <masked>false</masked>
+      <name>actualConfirmationUrl</name>
+   </variable>
+</TestCaseEntity>

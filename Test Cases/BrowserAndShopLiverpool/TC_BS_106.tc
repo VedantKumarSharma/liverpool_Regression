@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system checks local inventory for the SL PARENT item on PDP page, where SL PARENT item is with partial inventory  and BT GIFT item is in stock</description>
+   <name>TC_BS_106</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>ab83629b-4844-4140-9456-a3a7ffacfe4b</testCaseGuid>
+</TestCaseEntity>

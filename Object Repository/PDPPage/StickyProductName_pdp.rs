@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StickyProductName_pdp</name>
+   <tag></tag>
+   <elementGuidId>ef5f81e5-1798-42b2-8357-09e6c2bba17f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6285b6bb-f2f8-4bc2-af32-f9c247718044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>a3c5b2e8-949d-4d11-bf33-57fc18157077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refrigerador Dúplex LG 22 pies cúbicos Tecnología inverter y Tecnología no frost VS22JNT</value>
+      <webElementGuid>4bde4972-e195-42ba-8df2-716e84cb9431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[4]/div[@class=&quot;o-stickyBar__container  show&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-xl-5&quot;]/div[@class=&quot;m-stickyBar__info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;a-stickyBar__title&quot;]/p[@class=&quot;undefined&quot;]</value>
+      <webElementGuid>d94b7222-dff5-48b0-bd65-febf3faeb012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div/div/div/p</value>
+      <webElementGuid>6d5c47cf-c62c-49b6-ba99-74f77025d092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[2]/following::p[1]</value>
+      <webElementGuid>56bf4973-d0e0-403e-987c-cdead263152a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[1]/following::p[1]</value>
+      <webElementGuid>4c82368c-26ab-4b0e-9473-01b486add15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de producto'])[1]/preceding::p[3]</value>
+      <webElementGuid>faa40652-9f35-4e31-a52d-f2d938c7a66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ofertas y promociones'])[1]/preceding::p[3]</value>
+      <webElementGuid>051ba992-aef4-4d1f-baef-bc9442221930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refrigerador Dúplex LG 22 pies cúbicos Tecnología inverter y Tecnología no frost VS22JNT']/parent::*</value>
+      <webElementGuid>53a4bfde-e86a-4d18-95ab-412a27cca29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>811d714d-8978-4a7d-9181-bc35b5eeafb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Refrigerador Dúplex LG 22 pies cúbicos Tecnología inverter y Tecnología no frost VS22JNT' or . = 'Refrigerador Dúplex LG 22 pies cúbicos Tecnología inverter y Tecnología no frost VS22JNT')]</value>
+      <webElementGuid>f38fe628-e13e-4f20-ab5a-5941d785df65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

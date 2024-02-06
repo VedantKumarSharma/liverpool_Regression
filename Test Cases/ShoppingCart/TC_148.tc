@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the item is a gift, the text of &quot;Buy now&quot; will not be displayed on the WEB at the level of this product, the quantity cannot be changed.</description>
+   <name>TC_148</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e69ece1d-d378-45ec-8c65-d54338ab8635</testCaseGuid>
+</TestCaseEntity>

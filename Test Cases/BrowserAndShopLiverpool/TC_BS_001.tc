@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the category landing page.</description>
+   <name>TC_BS_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90fa84d1-e0b3-46c5-b19b-4ecb7e3d5ea8</testCaseGuid>
+</TestCaseEntity>

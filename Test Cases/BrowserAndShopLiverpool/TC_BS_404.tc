@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the behaviour of sticky bar when user selects or changes any of the variants on PDP for SL item</description>
+   <name>TC_BS_404</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fe5127f-6c0c-4e13-84c3-2328dd54f3cd</testCaseGuid>
+</TestCaseEntity>

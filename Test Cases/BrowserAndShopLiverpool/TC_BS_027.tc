@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the price changes on changing all the variants in PDP</description>
+   <name>TC_BS_027</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f00f4fce-ba18-41d3-a1f8-709ed94b5126</testCaseGuid>
+</TestCaseEntity>

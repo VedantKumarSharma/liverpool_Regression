@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of the Has Olvidaste tu contraseña?&quot; link</description>
+   <name>LP_TC_Acc-Mgt_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbacb806-83b4-4780-beba-f6079bb259e0</testCaseGuid>
+</TestCaseEntity>

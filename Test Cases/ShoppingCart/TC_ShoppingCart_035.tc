@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the system behavior when Logged-in user adds the same Big-ticket items twice to the cart.</description>
+   <name>TC_ShoppingCart_035</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4186edf-274c-4027-8107-14a02ba88396</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In case you have Marketplace products in One Page checkout, you must be able to select a shipping address as the delivery method</description>
+   <name>TC_200</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a4fb791-8a92-4cd6-b1ea-93df8a95f647</testCaseGuid>
+</TestCaseEntity>

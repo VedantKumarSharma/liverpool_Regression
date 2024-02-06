@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the Encryption of the URL when user apply filter for a searched product</description>
+   <name>LP_PLP_WEB_TC__38</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5195253-80d4-4f6b-a270-cd7cad853d0f</testCaseGuid>
+</TestCaseEntity>

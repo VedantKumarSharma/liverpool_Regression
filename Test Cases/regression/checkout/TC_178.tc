@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For a login customer, if the shipping method is not configured as default, a checkbox should appear to select this address in that purchase as default. This action must be carried out when the customer clicks on &quot;finalize purchase&quot; and the checkbox is selected, regardless of whether the purchase is successful or failed.</description>
+   <name>TC_178</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f818ded5-0be8-4124-a180-94e401463c33</testCaseGuid>
+</TestCaseEntity>

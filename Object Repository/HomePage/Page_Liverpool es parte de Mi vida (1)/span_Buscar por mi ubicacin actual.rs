@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buscar por mi ubicacin actual</name>
+   <tag></tag>
+   <elementGuidId>f9e4e67c-30df-4224-aa2b-48d107e14e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='bt_select_state']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>723abde6-5daf-453b-8400-1f2e63f2882f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2</value>
+      <webElementGuid>4ce0ff1e-3124-4349-81be-9993c63d92b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buscar por mi ubicación actual</value>
+      <webElementGuid>229cebcf-3bce-4c17-9076-91940d7d5555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciudad_tienda&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 select-geoLoation&quot;]/span[@class=&quot;ml-2&quot;]</value>
+      <webElementGuid>d31941dd-e510-440d-8fa8-d22432d68e6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciudad_tienda']/div[2]/div/span</value>
+      <webElementGuid>bb58ee4c-4de5-43c2-b7f3-b987551cb9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/following::span[1]</value>
+      <webElementGuid>d58d5b73-6c64-45e2-bc5a-94a46aed4d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C.P. Ciudad o Tienda'])[2]/following::span[2]</value>
+      <webElementGuid>2de773d8-e259-4412-9323-a3e50907496c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te escuchamos'])[1]/preceding::span[2]</value>
+      <webElementGuid>c524647c-50a4-44a3-a068-b2e50eaea646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::span[3]</value>
+      <webElementGuid>2b152ba0-6c9f-4a2a-bc32-10254adb6f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buscar por mi ubicación actual']/parent::*</value>
+      <webElementGuid>42592beb-90a5-4578-9740-004926185b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>562d2f6a-24fd-4c67-ac18-e94a2652b8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buscar por mi ubicación actual' or . = 'Buscar por mi ubicación actual')]</value>
+      <webElementGuid>884467d7-fb24-447f-a1ed-b9932a4d8535</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

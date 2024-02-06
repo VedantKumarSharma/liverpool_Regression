@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If you have not calculated the estimated delivery date in PDP, it will not appear in &quot;My bag&quot; as it currently works.</description>
+   <name>TC_155</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3909c5d-9452-46ad-b71b-4d5ebc8de665</testCaseGuid>
+</TestCaseEntity>

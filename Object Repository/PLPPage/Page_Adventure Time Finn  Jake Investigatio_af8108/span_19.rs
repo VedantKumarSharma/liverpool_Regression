@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_19</name>
+   <tag></tag>
+   <elementGuidId>14ea86b7-bab2-4ccd-a2d9-fe5c475aa2e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[3]/div/div/div/div/div[6]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-header__bag > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>692cd524-3cf5-4b6c-9cee-f0d18c0bb12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>19</value>
+      <webElementGuid>99324333-cff1-485f-bec2-bbd32e07d7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header noSearchBar d-flex align-items-center d-lg-block&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters pt-2 pt-lg-2 pb-lg-2&quot;]/div[@class=&quot;o-col col-lg-auto col-3 text-lg-center text-right order-3 order-lg-5&quot;]/button[@class=&quot;a-header__bag&quot;]/span[1]</value>
+      <webElementGuid>7646b562-2bd6-4cc3-a1cf-4aed3a0fb057</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[3]/div/div/div/div/div[6]/button/span</value>
+      <webElementGuid>2974c78d-2e6a-45b5-b1b0-701e2a09671b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[2]/following::span[1]</value>
+      <webElementGuid>617b7166-31df-4315-a45f-314e4ba6f6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis tarjetas'])[2]/following::span[1]</value>
+      <webElementGuid>65db1b78-b99a-4b4a-89da-8866b3241b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorías'])[1]/preceding::span[1]</value>
+      <webElementGuid>79ff2d7d-abb8-4e91-97de-bb74e18e7f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ella'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d654d70-8e33-441f-aed0-acb94cb13065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='19']/parent::*</value>
+      <webElementGuid>a73e7e0e-5d3f-4c3a-a11b-29a86323ee1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>87a4b9ac-17ba-4ec8-b722-3743f76074d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '19' or . = '19')]</value>
+      <webElementGuid>c786aa99-6ce4-4e10-9d40-5b0fe2585f64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

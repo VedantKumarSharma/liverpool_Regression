@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;select your store&quot; popup should gets display on clicking &quot;select your store&quot; link at the header</description>
+   <name>TC_GeoLocal_05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a89d14a5-e670-43dc-a8da-7bee439e3087</testCaseGuid>
+</TestCaseEntity>

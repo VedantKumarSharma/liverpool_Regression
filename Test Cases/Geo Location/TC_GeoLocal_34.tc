@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify default address gets display under &quot;ship home to&quot; delivery section once user adds default address to profile</description>
+   <name>TC_GeoLocal_34</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c4b1207-178f-477a-be5c-1ff75fca0d62</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_name_not.com_CLP</name>
+   <tag></tag>
+   <elementGuidId>fb1033db-caab-4dff-85e6-884577d35cdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[contains (text(),'.com')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>58f31890-22a5-404d-819f-f0d033fe0d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mujer en Liverpool.com.mx</value>
+      <webElementGuid>ec5e6fc8-5b3b-44d6-9b1a-24f2265af4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[1]/div[@class=&quot;container-fluid o-main-container p-0 o-blp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;o-blp-mainContent order-1 order-lg-2 px-0 px-lg-0 d-none d-lg-block&quot;]/div[@class=&quot;slotdiv d-none d-lg-block&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-12-sm seoRow d-none d-lg-block&quot;]/div[@class=&quot;seoText&quot;]/h6[2]</value>
+      <webElementGuid>ce7b33be-e276-4be9-ae13-e09ff7c7d553</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[4]/main/div[5]/div/div[2]/div/div/h6[2]</value>
+      <webElementGuid>b38110af-6bfb-410a-86ea-0f9174dbddbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tendencia'])[2]/following::h6[1]</value>
+      <webElementGuid>0b865b08-96ab-4399-bc49-3143b6d78911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aéropostale, Banana Republic, GAP, Chico´s'])[2]/following::h6[1]</value>
+      <webElementGuid>72048c64-a60f-433f-8436-71b6d83f41f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soporte al cliente'])[1]/preceding::h6[1]</value>
+      <webElementGuid>abfaaef0-8497-42d0-9662-b929464552ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/h6[2]</value>
+      <webElementGuid>a67286f0-a03c-4a12-8139-850c10b6793a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Mujer en Liverpool.com.mx' or . = 'Mujer en Liverpool.com.mx')]</value>
+      <webElementGuid>35cce3a4-f61b-41ca-907a-ca1e7985f018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

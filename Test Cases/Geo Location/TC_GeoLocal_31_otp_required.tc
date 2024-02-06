@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify entered CP code in &quot;Enter the zip code&quot; popup, delivery flag, change direction link, EDD and comprar button  gets display under &quot;ship home to&quot; delivery section</description>
+   <name>TC_GeoLocal_31_otp_required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>008c1677-b90b-4cdf-94d0-e44e6265f809</testCaseGuid>
+</TestCaseEntity>

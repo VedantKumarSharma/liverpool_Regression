@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In case of editing in One Page checkout an address previously saved in my profile, the changes must be reflected in the Profile.</description>
+   <name>TC_180</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08dc675b-eac7-4693-b592-3efc3eab4383</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;view other store&quot; popup gets display on clicking &quot;view other store&quot; link under click &amp; collect delivery section</description>
+   <name>TC_GeoLocal_26</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc5b71eb-37c8-414c-8c52-8c54acb96b0d</testCaseGuid>
+</TestCaseEntity>

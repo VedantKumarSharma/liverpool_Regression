@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the sorting options in PLP</description>
+   <name>LP_PLP_WEB_TC__04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9f9cee4-0bd8-48e6-9e01-7120a264d2c0</testCaseGuid>
+</TestCaseEntity>

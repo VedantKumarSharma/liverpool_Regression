@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EliminarIcon_cart</name>
+   <tag></tag>
+   <elementGuidId>76353ce6-6b03-46cd-b117-447bad5baab2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@class='a-btn a-btn--qty-OCP btn-qty -minus'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--qty-OCP.btn-qty.-minus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>067d0323-bef6-4709-a0b6-e015671bbcc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--qty-OCP btn-qty -minus</value>
+      <webElementGuid>f8656520-e46d-4d10-bf22-9897ecf904a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1111964218&quot;)/div[@class=&quot;o-myBag__column&quot;]/div[@class=&quot;m-product m-product-qty&quot;]/div[@class=&quot;m-product__qty p-0 m-0&quot;]/div[@class=&quot;row m-stickyBar__mobile m_stickyBar_position m_stickyBar__opc&quot;]/div[@class=&quot;m-0 m_stickyBar_position-button&quot;]/button[@class=&quot;a-btn a-btn--qty-OCP btn-qty -minus&quot;]</value>
+      <webElementGuid>6e479589-511a-436f-a698-5f4aa661fc4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1111964218']/div[3]/div/div/div/div/button</value>
+      <webElementGuid>3fea7939-23dd-424e-973d-fc80f35d3966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[1]/following::button[1]</value>
+      <webElementGuid>0045d718-d5cb-4eb2-8a7f-b0306c43d736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mover a Wishlist'])[1]/following::button[2]</value>
+      <webElementGuid>eb1a6591-d255-48e1-8f42-a3e24da91578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::button[1]</value>
+      <webElementGuid>f3b064a0-8001-463a-94f0-91d8387c5227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[2]/preceding::button[2]</value>
+      <webElementGuid>9006dba8-8a8c-4d88-a5d4-dfe550017cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button</value>
+      <webElementGuid>5d65ecf9-b51b-47f0-bc95-8ec7f235d9df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

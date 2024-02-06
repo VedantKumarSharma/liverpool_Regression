@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If customer starts the one page checkout with a predefined payment method, at the promotion combo has to appear the best promotion for the ítem and according to the predefined payment method</description>
+   <name>TC_452</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85bc4aae-a8b7-44b1-8f38-606121264b34</testCaseGuid>
+</TestCaseEntity>

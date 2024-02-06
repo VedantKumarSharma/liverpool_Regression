@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can update the address on clicking add address link in OPC</description>
+   <name>TC_GeoLocal_73</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e195e03-5e5b-4401-8fa3-4084bacdfb48</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EDD gets display for the added BT item in cart</description>
+   <name>TC_GeoLocal_47</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6caf997-2b8f-4bf0-bf16-5284cdf88970</testCaseGuid>
+</TestCaseEntity>

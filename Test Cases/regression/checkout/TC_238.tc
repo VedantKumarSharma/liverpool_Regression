@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A customer can remove a C&amp;C store from his frequent from One Page checkout</description>
+   <name>TC_238</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>540e937c-a26e-4a76-8a5d-edd56639dfef</testCaseGuid>
+</TestCaseEntity>

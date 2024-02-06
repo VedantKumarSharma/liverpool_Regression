@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In case of login user with a C&amp;C Store selected as default, should appear preloaded that store when starting at One Page checkout and based on it, recalculate the EDD.</description>
+   <name>TC_235</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89187f13-afad-4b08-9b64-3b17bf5d2fdb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If user has predefined Paypal as payment method and the sku is downloadable or gift certificate will appear a message to tell user has to change his payment method</description>
+   <name>TC_351</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbb3bba2-4582-4a6c-8b2f-027c77e817df</testCaseGuid>
+</TestCaseEntity>

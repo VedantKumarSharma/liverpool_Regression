@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>totalPrice_cart</name>
+   <tag></tag>
+   <elementGuidId>3303f1dd-4b15-49fc-81a5-4384ad9f1f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@name='columnTotal']//div[@class='o-myBag__column--priceContainer'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.a-inlineElement.a-inlineElement--enphasis.a-inlineElement--total.change_color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4dfae9e1-23fd-4ba4-827f-297faeba16e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-inlineElement a-inlineElement--enphasis a-inlineElement--total change_color</value>
+      <webElementGuid>94bf44ad-e0ea-4d62-b359-e017fafffee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$1,79900</value>
+      <webElementGuid>4e31f9a5-7c4a-44be-9878-37aaace2ea00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1111964218&quot;)/div[@class=&quot;o-myBag__column&quot;]/div[@class=&quot;o-myBag__column--priceContainer&quot;]/p[@class=&quot;a-inlineElement a-inlineElement--enphasis a-inlineElement--total change_color&quot;]</value>
+      <webElementGuid>e73524a8-6a3e-4827-82a1-00b3d1e3fb70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1111964218']/div[5]/div/p</value>
+      <webElementGuid>27380395-c818-4a5e-ad93-a4293c2cea5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más opciones de entrega'])[2]/following::p[1]</value>
+      <webElementGuid>c854c1ea-a590-48b4-b7e7-8725167ff7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[2]/following::p[1]</value>
+      <webElementGuid>3f01a257-5759-47f8-9e0d-9fac5b888100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar para mesa de regalos'])[2]/preceding::p[1]</value>
+      <webElementGuid>3e77f7ea-9d1d-4e75-873b-cca00ac85257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar ahora'])[2]/preceding::p[1]</value>
+      <webElementGuid>a3dff520-6e2d-401e-8db5-d010cc1e93d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/p</value>
+      <webElementGuid>f3f8d003-38fb-4bf0-a91d-0fc712e41d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$1,79900' or . = '$1,79900')]</value>
+      <webElementGuid>8f476561-3c60-4bf9-a81d-d8c68db9a113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

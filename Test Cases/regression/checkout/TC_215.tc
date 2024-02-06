@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In One Page checkout a login or guest customer  should have the option of selecting a Click and Collect store as the shipping method.</description>
+   <name>TC_215</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38552a98-4331-4c5b-b89c-cbfa29ca7a15</testCaseGuid>
+</TestCaseEntity>

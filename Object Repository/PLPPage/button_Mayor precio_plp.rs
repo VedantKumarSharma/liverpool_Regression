@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mayor precio_plp</name>
+   <tag></tag>
+   <elementGuidId>1b94cf8a-9881-4e30-936d-f06f2e70402a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type = 'button' and (text() = 'Mayor precio' or . = 'Mayor precio')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd71c9f5-c7eb-4733-b946-f6265573a81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>3d85c8c0-6208-43e3-977b-ef34a25c7c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f93ecfb2-1948-40fd-bced-3886339bdbb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datahref</name>
+      <type>Main</type>
+      <value>/tienda/sortPrice|1</value>
+      <webElementGuid>097365a9-9a6f-4299-b753-9920c83133c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mayor precio</value>
+      <webElementGuid>828d859d-d93a-41ac-a3ca-089a03eb1d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 d-none d-lg-block pr-1 pr-1 pl-lg-1 pr-lg-1&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;col-lg-4 col-xl-3 mb-4 pr-2 pl-0&quot;]/div[@class=&quot;m-dropdown&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/button[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>5e6a54b9-748e-481e-b59b-fa3e7b0dc82b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>747b3bfc-e9cc-492c-9817-83b927292f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/main/div/div/div/div/div/div/div/button[4]</value>
+      <webElementGuid>3c94d23c-c22e-47b3-b7e9-720973be6902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menor precio'])[2]/following::button[1]</value>
+      <webElementGuid>686bae4b-2507-430a-be68-b1d33b6a3d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lo Más Nuevo'])[2]/following::button[2]</value>
+      <webElementGuid>ab4dbe1f-a020-485e-ba1b-ab67644e0e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificaciones'])[2]/preceding::button[1]</value>
+      <webElementGuid>5e5e846e-6647-4320-b357-95f56a039d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenis Puma unisex'])[1]/preceding::button[2]</value>
+      <webElementGuid>cce26baa-cc05-4110-92fe-cb575b56e972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div/div/div/button[4]</value>
+      <webElementGuid>bd96eb47-19f4-4351-8559-e60ad6d2f28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Mayor precio' or . = 'Mayor precio')]</value>
+      <webElementGuid>285d2a5c-c2e1-4f3b-8c53-8bb021951012</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

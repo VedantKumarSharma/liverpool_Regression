@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Use my location, Search text box (Zipcode,State,City and Store Name) and Acceptar button gets displayed in Select your store popup</description>
+   <name>TC_GeoLocal_06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>273447b2-aba2-426c-93bf-931474ec8b18</testCaseGuid>
+</TestCaseEntity>

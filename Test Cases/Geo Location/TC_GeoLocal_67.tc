@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EDD gets updated on changing to home delivery from click &amp; collect address</description>
+   <name>TC_GeoLocal_67</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac25c080-f657-46d1-a190-1b30a721abfc</testCaseGuid>
+</TestCaseEntity>

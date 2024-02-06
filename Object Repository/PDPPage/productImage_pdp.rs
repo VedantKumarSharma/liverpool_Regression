@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productImage_pdp</name>
+   <tag></tag>
+   <elementGuidId>455d34c0-fa6f-4516-925c-77f105d8206c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='pzlcontainerviewer viewerImg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.min-vh-90</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0ca2c47-ea18-428e-8526-5fcc7c8a7009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-vh-90</value>
+      <webElementGuid>d4f04197-61b8-4282-9f32-56a0336c9c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;min-vh-90&quot;]</value>
+      <webElementGuid>da9b3a2b-ac9b-437f-9572-6e4313da9c1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/main/div</value>
+      <webElementGuid>16e46fcd-9f23-44b2-bef5-f44bb4c802a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenis'])[1]/following::div[2]</value>
+      <webElementGuid>caf08f22-b35e-4b6f-8f43-d1b4bb6c01b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hombre'])[1]/following::div[2]</value>
+      <webElementGuid>6d11d97c-1422-4a3d-b4a1-7ec345192b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenis Puma unisex'])[2]/preceding::div[23]</value>
+      <webElementGuid>3dcd517d-6cd9-41e1-9e61-8764decd81d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escribe una opinión'])[1]/preceding::div[24]</value>
+      <webElementGuid>1aa0b313-f294-4ed1-885d-5f09f5327844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>56f74471-9407-4cfa-b933-bee098a53284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Price_1_plp</name>
+   <tag></tag>
+   <elementGuidId>0fdd23b2-f616-442a-819a-d23459d78b78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='fiterl-prices']//label[contains(text(),'$')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fiterl-prices > div.m-radioButton.mdc-form-field > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1c2da7c9-0cf1-47e1-85d6-14629cb9e697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menos de $100.0 (10)</value>
+      <webElementGuid>4791ee5f-4f56-413e-a378-7688a6971ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;plp-filter-options active&quot;]/div[@class=&quot;fiterl-prices&quot;]/div[@class=&quot;m-radioButton mdc-form-field&quot;]/label[1]</value>
+      <webElementGuid>c4b96511-2955-4df3-8b07-753fff530024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[53]/div[2]/div/div/label</value>
+      <webElementGuid>90c45782-2c50-4de2-8bd7-3ae1ba88df8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precios'])[1]/following::label[1]</value>
+      <webElementGuid>859ed990-a1a1-4485-858e-4ca811357b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unitalla (3)'])[1]/following::label[2]</value>
+      <webElementGuid>ae29a0bd-b7d1-4d2a-ad96-90f4786c2c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menos de $100.0']/parent::*</value>
+      <webElementGuid>7e507b90-f93c-4148-9aec-7ef0d9ce9286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[53]/div[2]/div/div/label</value>
+      <webElementGuid>e99a1bc2-90ad-452c-8489-5ca91ed5687e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Menos de $100.0 (10)' or . = 'Menos de $100.0 (10)')]</value>
+      <webElementGuid>3ec7f78c-cf08-4a6b-b0c7-cce5a9132527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

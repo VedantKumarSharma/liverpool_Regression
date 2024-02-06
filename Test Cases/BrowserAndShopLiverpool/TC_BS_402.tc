@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify the product image on sticky banner for SL/BT/ and Technologia items.
+To verify the selected color on sticky banner for SL/BT/ Technologia items.
+To verify the selected size  on sticky banner for SL/BT/ Technologia items.
+To verify the price on sticky banner for SL/BT//lense and Technologia items.
+To verify the display and functionality of quantity text box on sticky banner for SL/BT//lense and Technologia items.
+To verify the add to cart button on sticky banner for SL/BT/ and Technologia items.
+To verify the product  Description anchor link on sticky banner for SL/BT/Lense items.
+To verify the  Caracteristicas anchor link  on sticky banner for  SL/BT//lense and technologia category items.
+To verify the display of Ofertas especiales y promociones anchor link  on sticky banner for  SL/BT// lense items.
+To verify the  Informacion extra anchor link  on sticky banner for  SL/BT// lense items.
+&quot;</description>
+   <name>TC_BS_402</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6792961d-4ac8-48b1-931c-b2380fff9866</testCaseGuid>
+</TestCaseEntity>

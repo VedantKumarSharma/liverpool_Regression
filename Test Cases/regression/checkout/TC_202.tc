@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a customer is in One Page checkout and only has a digital item and one of GR as invited, in the shipping method section the legend of &quot;digital product&quot; should be displayed without having the option to enter a shipping method.</description>
+   <name>TC_202</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b69e5e21-f57e-47a5-b1e9-72c786829472</testCaseGuid>
+</TestCaseEntity>

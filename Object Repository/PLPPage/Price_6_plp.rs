@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Price_6_plp</name>
+   <tag></tag>
+   <elementGuidId>51cbf0de-c727-4ef2-944b-46fd0489d679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='fiterl-prices']/div[@class='m-radioButton mdc-form-field'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6e1c4423-f4ca-431e-9058-83755da01ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mas de $10000.0 (26)</value>
+      <webElementGuid>5b849df8-76c9-41de-b2a4-a7f4b1684cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;plp-filter-options active&quot;]/div[@class=&quot;fiterl-prices&quot;]/div[@class=&quot;m-radioButton mdc-form-field&quot;]/label[1]</value>
+      <webElementGuid>574a5879-161c-4465-a15f-d760f579ebc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[53]/div[2]/div/div[6]/label</value>
+      <webElementGuid>a284f0ad-2216-432b-ba04-4795dc64426b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::label[1]</value>
+      <webElementGuid>aa94c4a0-6037-47c3-98a0-0d52a1964471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificación'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e20f629-d0d5-4264-8e15-73b4a829764b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mas de $10000.0']/parent::*</value>
+      <webElementGuid>3242c0b6-92b7-47f3-a310-a1b6a3d12c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[53]/div[2]/div/div[6]/label</value>
+      <webElementGuid>f309a760-6b3a-430d-8691-798de8d0b136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Mas de $10000.0 (26)' or . = 'Mas de $10000.0 (26)')]</value>
+      <webElementGuid>38b92add-5ede-4d84-be24-7fa14fddc376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

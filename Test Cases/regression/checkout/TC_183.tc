@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Once the customer changes the delivery address for some other shipping method, a message should appear stating that the shipping method has been updated.</description>
+   <name>TC_183</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be71061c-ee42-49b3-924a-d0768058ec3d</testCaseGuid>
+</TestCaseEntity>

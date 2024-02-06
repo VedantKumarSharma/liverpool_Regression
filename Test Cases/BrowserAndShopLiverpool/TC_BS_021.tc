@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Remove filter button on the PLP</description>
+   <name>TC_BS_021</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>530351fb-deef-40b6-ace3-6eb9146dbe5a</testCaseGuid>
+</TestCaseEntity>

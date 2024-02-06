@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify change direction popup gets display on clicking &quot;change direction&quot; link under &quot;ship home to&quot; delivery section</description>
+   <name>TC_GeoLocal_32_otp_required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb9b4f96-cbd2-4d54-90de-a88464258854</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a customer has a GR product and a personal purchase product in One Page checkout, the C&amp;C store should be displayed in the shipping method in case of having default one, otherwise a shipping method must be selected or entered.</description>
+   <name>TC_244</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>746a6c75-2c75-42eb-9be0-93a299d6def0</testCaseGuid>
+</TestCaseEntity>

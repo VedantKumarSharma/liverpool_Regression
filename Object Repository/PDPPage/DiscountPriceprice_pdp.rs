@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DiscountPriceprice_pdp</name>
+   <tag></tag>
+   <elementGuidId>b38d83ec-3212-418e-a41d-62d78f92da3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='a-product__paragraphDiscountPrice m-0 d-inline ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0480b035-ef02-47e2-8cfd-74e0325405d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-product__paragraphDiscountPrice m-0 d-inline </value>
+      <webElementGuid>add57fb1-06ab-4b54-b6f6-a3d446567467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$1,19920</value>
+      <webElementGuid>ddbd6016-0575-4633-9e3a-84f0a27cb01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;o-product__description&quot;]/div[@class=&quot;m-product__price-dw-promotion&quot;]/div[@class=&quot;m-product__price--collection&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/p[@class=&quot;a-product__paragraphDiscountPrice m-0 d-inline&quot;]</value>
+      <webElementGuid>f94398ed-cb1c-489f-9de2-d2540b880b0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/main/div[2]/div[3]/div/div/div/p[2]</value>
+      <webElementGuid>fd4c3525-135b-4877-bc84-6d326896f504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver disponibilidad en tienda'])[1]/following::p[2]</value>
+      <webElementGuid>948b7ab5-d61d-45f4-9bcc-da7b239172b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escribe una opinión'])[1]/following::p[2]</value>
+      <webElementGuid>a37a76b1-fdfa-484b-a2e6-2fb3b6997c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::p[4]</value>
+      <webElementGuid>aacdd864-60f8-4053-8bcf-bdf01da64c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/preceding::p[4]</value>
+      <webElementGuid>947d0b4a-bbb9-4e21-bae4-b3f31dee548e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p[2]</value>
+      <webElementGuid>d93c0bba-2fd1-4d69-8a60-7f114fb41700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$1,19920' or . = '$1,19920')]</value>
+      <webElementGuid>362018e6-f76a-4fa9-a10b-b75db64d2998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

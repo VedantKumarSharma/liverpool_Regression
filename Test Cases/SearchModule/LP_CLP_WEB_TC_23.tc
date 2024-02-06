@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system displays Most Viewed Products of configured  category in Cartridge A slot in CLP for selected category when there are no response/results in ATG Repository</description>
+   <name>LP_CLP_WEB_TC_23</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a21ccef-d8b4-438e-8d84-1fec06d9aeb2</testCaseGuid>
+</TestCaseEntity>

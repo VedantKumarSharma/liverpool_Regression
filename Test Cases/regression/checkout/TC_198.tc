@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user is in One Page checkout and only have a downloadable product, it should not be possible to add a delivery address nor should a default one appear. Only a legend will be visible since this product is not tangible.</description>
+   <name>TC_198</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1973534-daa0-4a85-b709-e66d5e0a887f</testCaseGuid>
+</TestCaseEntity>

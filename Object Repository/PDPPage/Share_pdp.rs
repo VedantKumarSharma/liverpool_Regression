@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Share_pdp</name>
+   <tag></tag>
+   <elementGuidId>4f506ecb-7e3d-4c76-99ca-ae5416f987cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='mt-4 d-none d-lg-block']/a[@class='m-product__anchorShareSocial']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-1.a-product__labelProductShareWeb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>989e706f-b1bc-41d9-b15a-0a8fb29840f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-1 a-product__labelProductShareWeb</value>
+      <webElementGuid>618b06e8-8da6-4698-b3ff-946fb3960478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compartir</value>
+      <webElementGuid>dfe1fc3d-44a5-434a-828c-b327dff3c1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;o-product__description&quot;]/div[@class=&quot;mt-4 d-none d-lg-block&quot;]/a[@class=&quot;m-product__anchorShareSocial&quot;]/span[@class=&quot;ml-1 a-product__labelProductShareWeb&quot;]</value>
+      <webElementGuid>fe845a4a-bd10-40f5-b425-e962ee0e7ea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/main/div[2]/div[11]/a/span</value>
+      <webElementGuid>09c5974a-e127-4fd4-82b1-ff5b48e5b09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[3]/following::span[1]</value>
+      <webElementGuid>ac67d16e-03ce-433c-9f92-85c67dd73b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::span[1]</value>
+      <webElementGuid>2f3eb23d-dd76-4b8f-97bd-009e69000151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recibe a domicilio'])[1]/preceding::span[1]</value>
+      <webElementGuid>13d98233-61e9-4221-b078-f366b7a2b9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compartir']/parent::*</value>
+      <webElementGuid>987d55aa-9c24-4c63-9cce-ab6347e74f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>4d666710-55ad-4094-9c72-e1caa8a5a31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Compartir' or . = 'Compartir')]</value>
+      <webElementGuid>7d410acd-0f39-4424-8e35-fda6059f36e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

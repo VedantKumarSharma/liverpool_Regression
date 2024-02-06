@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StickyProductPieces_pdp</name>
+   <tag></tag>
+   <elementGuidId>62ab9e74-e9f5-416d-aa1d-cf05c97c34e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div[2]/div[3]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-stickyBar__size > p.m-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c13252cb-eab5-41ef-864c-1f9123453db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0</value>
+      <webElementGuid>a2e9c777-7a8e-49ff-a0a3-a634e19ac61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22 pies cúbicos</value>
+      <webElementGuid>e7aca9bb-6691-46fc-9d2d-6c270b4ddffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[4]/div[@class=&quot;o-stickyBar__container  show&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-xl-5&quot;]/div[@class=&quot;m-stickyBar__info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3&quot;]/div[@class=&quot;a-stickyBar__size&quot;]/p[@class=&quot;m-0&quot;]</value>
+      <webElementGuid>34f77ded-4b06-468a-a48e-997efa47188b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div[2]/div[3]/div/p</value>
+      <webElementGuid>ba10a6e7-18b0-4d9b-a835-e286e86300ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[2]/following::p[3]</value>
+      <webElementGuid>0bc88cc1-6779-4417-bba9-61880428009e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[1]/following::p[3]</value>
+      <webElementGuid>c9d0b3e6-d45b-4f98-abc9-0c7b83e0cc06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de producto'])[1]/preceding::p[1]</value>
+      <webElementGuid>0efd897d-2363-4263-9b0f-ee8c49b45f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ofertas y promociones'])[1]/preceding::p[1]</value>
+      <webElementGuid>3e8ceb2d-1c9a-4a19-8feb-42fdeb4f405a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='22 pies cúbicos']/parent::*</value>
+      <webElementGuid>7c3b7231-e241-4a32-a6f2-6bd719573d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>b3649089-97e2-477f-837e-d1bae3dfbc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '22 pies cúbicos' or . = '22 pies cúbicos')]</value>
+      <webElementGuid>7697e750-575f-4bac-98f5-7784bb909bbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

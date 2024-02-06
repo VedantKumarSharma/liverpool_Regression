@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If you have a shipping method previously saved as a login client, he must have the option to change the shipping method for a Click &amp; Collect store.</description>
+   <name>TC_219</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd7a1e9a-e423-4d14-9cfe-f4e5e25e5d35</testCaseGuid>
+</TestCaseEntity>

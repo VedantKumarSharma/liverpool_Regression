@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the user is able to login by giving valid credentials and click on the &quot;Inicia Sesion&quot; button in &quot;Inicia Sesion&quot; Overlay</description>
+   <name>LP_TC_Acc-Mgt_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d5afcba-b2f1-4069-a8d1-0a7a36a2104c</testCaseGuid>
+</TestCaseEntity>

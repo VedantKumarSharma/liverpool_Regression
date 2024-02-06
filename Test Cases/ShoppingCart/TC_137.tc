@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the &quot;Buy Now&quot; button is clicked on an item associated with a gift table, it is redirected to the Express Checkout maintaining the association to the gift table and the message entered in the bag; for this type of products, the inventory is not validated.</description>
+   <name>TC_137</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>819ae569-7287-4091-a474-6edf054ba582</testCaseGuid>
+</TestCaseEntity>

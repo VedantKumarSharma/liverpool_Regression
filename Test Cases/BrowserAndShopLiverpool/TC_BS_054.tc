@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify the display and functionality of facets selection and the elements displayed on Product List page.
+Defect ID : 7677&quot;</description>
+   <name>TC_BS_054</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7f75482-f612-41e3-a18c-e3258e6949e9</testCaseGuid>
+</TestCaseEntity>

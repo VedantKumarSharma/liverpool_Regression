@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;More delivery option&quot; link not gets display for the added BT item in cart</description>
+   <name>TC_GeoLocal_52</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b6f1c31-0922-45d7-af03-0e997c959ec0</testCaseGuid>
+</TestCaseEntity>

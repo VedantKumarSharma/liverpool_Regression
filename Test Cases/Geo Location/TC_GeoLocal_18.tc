@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify items with pickup &amp; home express delivery flag gets display on selecting both checkbox under flash filter in PLP</description>
+   <name>TC_GeoLocal_18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55e2ad2e-35e4-4a0b-bf6d-f6b7b3282661</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product is downloadable, clicking on the &quot;Buy Now&quot; button will send the product to the Express Checkout, without validating inventory.</description>
+   <name>TC_144</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baea10fe-8a7f-4c6a-9dbd-15dadfa1501f</testCaseGuid>
+</TestCaseEntity>

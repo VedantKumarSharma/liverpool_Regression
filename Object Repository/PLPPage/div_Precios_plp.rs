@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Precios_plp</name>
+   <tag></tag>
+   <elementGuidId>a3e3622d-9b04-4618-a9d7-6439a88f6139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='col a-text__filter']//label[contains(text(),'Precios')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bae3a792-b8d6-43f7-9337-39d4f9509b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col a-text__filter</value>
+      <webElementGuid>839c3b76-2989-4f6a-8c95-bdccd0ebcfd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Precios</value>
+      <webElementGuid>55098643-6450-43b5-9631-9a1cb60aa457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;a-plp__btnFilter&quot;]/button[@class=&quot;a-title__filter&quot;]/h3[@class=&quot;m-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col a-text__filter&quot;]</value>
+      <webElementGuid>d721aa69-0060-487f-b3ad-04354d1346bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[28]/div/button/h3/div/div</value>
+      <webElementGuid>d89663eb-c5f4-43b5-9d25-eba89781b3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descuentos'])[1]/following::div[37]</value>
+      <webElementGuid>2c9634fa-a69b-4adc-8da2-0250fd44a203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::div[44]</value>
+      <webElementGuid>bfed12e1-569c-4ac4-b5ba-6420188035c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]/div/button/h3/div/div</value>
+      <webElementGuid>0faaf87a-48f3-4c28-873c-c8444ef671e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Precios' or . = 'Precios')]</value>
+      <webElementGuid>1c0c41a0-798e-43a7-b9ef-422de725b99b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Breadcrum_pdp</name>
+   <tag></tag>
+   <elementGuidId>f85c2ab4-5ad3-4862-96c2-7f3f5a244bbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='m-breadcrumb'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-breadcrumb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c1280ee-4e83-49b0-ab64-016f01ac713c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-breadcrumb</value>
+      <webElementGuid>0c676ab5-99dc-49ed-ac2f-9b5cb50d76bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Home   Hombre   Accesorios de Hombre   Lentes   Solares </value>
+      <webElementGuid>0fb5fccf-4132-4fb7-a930-3525c55ce871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;d-none d-lg-block m-product__BreadCrumb&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row p-0&quot;]/div[@class=&quot;m-breadcrumb&quot;]</value>
+      <webElementGuid>170bfa10-ce54-4f6b-b5d1-b8b40d20ee8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div/div/div/div</value>
+      <webElementGuid>bd8f4299-1b54-471f-8424-19c9a9e4eeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar ahora'])[1]/following::div[5]</value>
+      <webElementGuid>0142872e-a0fe-456b-a9e8-6ab22664f840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar a mi bolsa'])[1]/following::div[6]</value>
+      <webElementGuid>6ee30438-9375-430c-937f-1a921d807e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>829a81e2-771a-4566-8651-4de7bb4d9aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Home   Hombre   Accesorios de Hombre   Lentes   Solares ' or . = '  Home   Hombre   Accesorios de Hombre   Lentes   Solares ')]</value>
+      <webElementGuid>0d87eaed-35b6-4db4-a7c4-ed81c19c4f5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the Product details of all products in Recommended products slot in PLP of selected category</description>
+   <name>LP_PLP_WEB_TC__25</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e7ba40-5d7b-409a-aa05-a55e975a7c51</testCaseGuid>
+</TestCaseEntity>

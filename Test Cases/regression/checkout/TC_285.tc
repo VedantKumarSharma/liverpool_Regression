@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For user login in Stores list, each store will have a menu, this menu has the following options:</description>
+   <name>TC_285</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21fad54f-060f-4ce7-b0fb-57373b3d1fdf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of breadcrumb in product details page Defect ID - 7608</description>
+   <name>TC_BS_067</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf40701f-7ae7-46ed-92ac-6a30eea54f75</testCaseGuid>
+</TestCaseEntity>

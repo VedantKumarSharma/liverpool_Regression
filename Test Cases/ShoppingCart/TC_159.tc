@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The “Save for later” option does not apply to items associated with a Gift Table event as it currently works.</description>
+   <name>TC_159</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20dd3011-9d9a-498a-be7b-cd2aa48ea680</testCaseGuid>
+</TestCaseEntity>

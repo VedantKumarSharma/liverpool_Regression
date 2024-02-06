@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Agree and continue</name>
+   <tag></tag>
+   <elementGuidId>77393667-5494-4585-ae19-9fe1537fed75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='consentButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#consentButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>be6691f6-9c68-4019-8b15-7eb2cbc68280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttons__btn--2JlTE common__full--2dDTc</value>
+      <webElementGuid>892f7189-8518-4f1c-aad5-dd2f159036cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0f6b9c51-c82a-449d-bd93-60f976a5fec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Agree and continue</value>
+      <webElementGuid>ba228d04-64db-4ea8-a3d2-79af5f0f7b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>consentButton</value>
+      <webElementGuid>7852e1c3-1866-4305-8143-430e1de55c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Agree and continue</value>
+      <webElementGuid>1419e815-ec93-4aae-b40a-537e6484be54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agree and continue</value>
+      <webElementGuid>5f73ae35-5898-4d62-a10b-68981eefc5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;consentButton&quot;)</value>
+      <webElementGuid>785becf1-010a-4345-993d-80766dcd33b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='consentButton']</value>
+      <webElementGuid>2f820f75-2380-472f-a38e-5afd70d470d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/section/div/div/form/div[4]/button</value>
+      <webElementGuid>d008794e-7d6f-4965-ab38-ca683e18a751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal Policies'])[1]/following::button[1]</value>
+      <webElementGuid>28f8a60f-ead7-4642-a6a8-5c90190bea9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liverpool'])[2]/following::button[1]</value>
+      <webElementGuid>af8838d4-5242-4cfa-9d88-6b01451db84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel and return to Liverpool'])[1]/preceding::button[1]</value>
+      <webElementGuid>15e8c280-cbad-4804-87a7-e312edb12959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agree and continue']/parent::*</value>
+      <webElementGuid>51e10191-fe84-4139-bb7c-1a402bbbdc23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>52b9a473-4847-4a93-a908-0492f8f772b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'Agree and continue' and @id = 'consentButton' and (text() = 'Agree and continue' or . = 'Agree and continue')]</value>
+      <webElementGuid>8f48203a-dd68-449e-a21d-33f543ff9662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

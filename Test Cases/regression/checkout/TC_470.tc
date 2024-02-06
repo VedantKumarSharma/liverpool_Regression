@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>At the products section on the one page checkout the customer has to have the option in each product to save for later in case want to buy it later</description>
+   <name>TC_470</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af1cf58a-7dcd-487a-98f8-acf3adea4423</testCaseGuid>
+</TestCaseEntity>

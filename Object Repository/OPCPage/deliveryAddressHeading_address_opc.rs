@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deliveryAddressHeading_address_opc</name>
+   <tag></tag>
+   <elementGuidId>74d09d9f-17df-4aa2-8278-1aaa12491a28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[contains(text(),'Entrega')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>25971197-ec32-41e8-8cf3-67d3793d3e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>c0c8b796-1e24-4816-afea-5a9cf2d6044e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Entrega</value>
+      <webElementGuid>2ec61420-5001-4d70-9deb-83126b6a0503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_deliveryAddress&quot;)/h6[@class=&quot;undefined&quot;]</value>
+      <webElementGuid>6d994601-c19e-42e2-9705-a7253d0650c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_deliveryAddress']/h6</value>
+      <webElementGuid>96c85226-ee65-4d40-9d8e-3be034632cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirma tu compra'])[1]/following::h6[1]</value>
+      <webElementGuid>3bca56c0-5816-4998-8811-294fcc00b024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace con cualquier tarjeta de crédito/débito.'])[1]/following::h6[1]</value>
+      <webElementGuid>3c23757f-d9a7-47b3-a625-1a03f7e012a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar'])[1]/preceding::h6[1]</value>
+      <webElementGuid>e7c3fb94-dca4-4a76-aef0-3cac205f1b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1. Entrega']/parent::*</value>
+      <webElementGuid>cd978a09-781c-4fcb-b09d-5cfecea5088d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>21d48c15-bf01-472b-8a71-ba3dd5f0a2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = '1. Entrega' or . = '1. Entrega')]</value>
+      <webElementGuid>fc5f05de-d4d6-4218-b05d-70c663e2a177</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

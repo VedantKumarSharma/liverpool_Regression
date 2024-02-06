@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When One Page checkout has only a digital and a personal product, the default personal address must be displayed in the shipping method, in case there is no default shipping method, a method must be requested.</description>
+   <name>TC_201</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae6161a4-0513-4a32-90c5-1722702d24a1</testCaseGuid>
+</TestCaseEntity>

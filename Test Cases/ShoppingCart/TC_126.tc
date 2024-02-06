@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a customer login or guest is in the bag, the page must have the option to “buy now” button for each item, must be redirected to the One Page Checkout to make an express purchase (EXC) with that single item and in the amount indicated in the bag; the rest of the products will be saved in the bag until the Express Checkout process ends.</description>
+   <name>TC_126</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ade1b86-ba93-400d-b637-9caf1458fbc9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Product Name in Recommended products slot in PLP of selected category when user clicks on product name of any product</description>
+   <name>LP_PLP_WEB_TC__27</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d897417e-4b11-4614-a374-7e2bf35a039a</testCaseGuid>
+</TestCaseEntity>

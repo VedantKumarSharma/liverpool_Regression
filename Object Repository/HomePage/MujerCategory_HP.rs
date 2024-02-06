@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MujerCategory_HP</name>
+   <tag></tag>
+   <elementGuidId>f5115b88-7f85-467c-aed8-d83b9be70665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='col-lg-10']/span[contains(text(),'Mujer')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-10 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7472cb8e-4976-44aa-a709-c8cfa392245f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mujer</value>
+      <webElementGuid>7ca7d035-c4a4-44c2-ad3e-89e98ee85e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid wrap-megamenu d-none d-lg-block&quot;]/div[@class=&quot;o-container container p-0&quot;]/nav[@class=&quot;m-megamenu&quot;]/div[@class=&quot;o-row row align-items-center&quot;]/div[@class=&quot;o-col col-lg-10 col-xl-9 pr-0&quot;]/div[@class=&quot;o-row row&quot;]/div[@class=&quot;o-col col-lg-auto col-6 order-lg-1 text-center&quot;]/div[@class=&quot;o-navDesktop&quot;]/ul[@class=&quot;m-navDesktop__menuList&quot;]/li[@class=&quot;m-navDesktop__section pt-2 pb-2 mr-xl-5&quot;]/ul[@class=&quot;dropdown-menu m-megamenu__dropdown m-megamenu_dropdown_open&quot;]/div[1]/div[1]/li[@class=&quot;m-megamenu__category&quot;]/a[@class=&quot;a-dekstop__categoryLink&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10&quot;]/span[1]</value>
+      <webElementGuid>bd513373-a48a-4020-814e-b4ada3603e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[4]/div[3]/div/nav/div/div/div/div/div/ul/li/ul/div/div/li/a/div/div/span</value>
+      <webElementGuid>5a7645e5-0c04-4758-abea-88233e2b15af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorías'])[1]/following::span[1]</value>
+      <webElementGuid>177776a5-0c52-4e4c-80ab-92133794b6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/following::span[3]</value>
+      <webElementGuid>117e5a6b-ed70-45d8-a8b7-47e0377c6a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mujer'])[2]/preceding::span[1]</value>
+      <webElementGuid>675f3f0c-0d38-4603-86c3-cd47d8f4ad64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ropa'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ba96180-6b95-4ef7-b63c-a8ec7c44f6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mujer']/parent::*</value>
+      <webElementGuid>23975044-33af-414d-a6a6-64f768c87a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/span</value>
+      <webElementGuid>bbe2a78a-a2e3-430e-8a66-090d3dd1432b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mujer' or . = 'Mujer')]</value>
+      <webElementGuid>9f675bcd-78d3-4d65-a9d0-d0ad6586a8fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>carousel_confirmation</name>
+   <tag></tag>
+   <elementGuidId>1b852b13-af80-414d-843b-1168c38b0c92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.o-carousel.plpclp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@class='o-carousel plpclp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>7e6f7a69-c381-4e70-a219-5454f777a1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-carousel plpclp</value>
+      <webElementGuid>d50abab7-98d6-488e-8a17-4dacf1800484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Otras personas también compraron Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425 Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425123</value>
+      <webElementGuid>6b6c8e87-d5fd-4dc0-8f59-0a4303a32a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-confirmation-page&quot;)/section[@class=&quot;o-carousel-section o-carousel-recommendation&quot;]/div[@class=&quot;container-fluid o-carousel-container&quot;]/div[@class=&quot;container p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/section[@class=&quot;o-carousel plpclp&quot;]</value>
+      <webElementGuid>2f23c960-3b96-4d85-8244-8108942193f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-confirmation-page']/section/div/div/div/div/section</value>
+      <webElementGuid>e9d02f00-889c-4b51-9e03-c170ec05225d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar ticket de pago'])[1]/following::section[2]</value>
+      <webElementGuid>a9b56504-3377-449f-b13d-6641c1cf9bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPORTANTE'])[1]/following::section[2]</value>
+      <webElementGuid>f8479984-513f-46fc-b83c-a14be6efed3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a Mis compras'])[1]/preceding::section[11]</value>
+      <webElementGuid>3063656f-95c9-4f67-8537-ec13a5bdb20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/section</value>
+      <webElementGuid>0e035ce8-2827-49fe-af50-f642d7b32870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Otras personas también compraron Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425 Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425123' or . = 'Otras personas también compraron Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425 Pantalón de vestir regular Sansabelt para hombre$89900$76415 Pantalón regular Ferrioni de algodón para hombre$99900$84915 Pantalón skinny GAP de algodón para hombre$1,29900$1,10415 Bóxer Perry Ellis con logotipo 3 piezas$88900$66675 Calcetín John Henry 3 pares regular$21900$16425123')]</value>
+      <webElementGuid>6abd19a6-f1bb-47b6-974f-44522058395d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

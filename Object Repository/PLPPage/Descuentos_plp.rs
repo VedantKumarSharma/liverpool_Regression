@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Descuentos_plp</name>
+   <tag></tag>
+   <elementGuidId>94ea91b5-3168-4346-904c-c768fd737324</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='col a-text__filter'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label[title=&quot;Descuentos&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>27fca5eb-49e5-44c2-988d-9ac119b7016b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Descuentos</value>
+      <webElementGuid>984f76df-7afb-4e61-957d-225d9dde3d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Descuentos</value>
+      <webElementGuid>f07d90dc-5ae5-435f-a4ec-4f4c003517d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;a-plp__btnFilter&quot;]/button[@class=&quot;a-title__filter&quot;]/h3[@class=&quot;m-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col a-text__filter&quot;]/label[1]</value>
+      <webElementGuid>56dc4fc6-fcc5-4ca5-ba87-7cc5499fec0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[24]/div/button/h3/div/div/label</value>
+      <webElementGuid>1ab1c6f7-6c36-4d35-8c87-320e9ae75be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chamarras'])[4]/following::label[1]</value>
+      <webElementGuid>b4c6cf8d-7667-49f9-979d-b38f2fab9bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ropa'])[4]/following::label[1]</value>
+      <webElementGuid>24989c6f-4f63-4820-a554-04e524c86eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marcas'])[1]/preceding::label[7]</value>
+      <webElementGuid>5b4f34f3-2d98-4352-9e4a-71d43939c9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Descuentos']/parent::*</value>
+      <webElementGuid>85f177cf-3c9a-4afc-86e8-3565dfacad15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/button/h3/div/div/label</value>
+      <webElementGuid>35309057-6f31-4ef7-85d5-874ac065dfd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Descuentos' and (text() = 'Descuentos' or . = 'Descuentos')]</value>
+      <webElementGuid>083a17ac-6bbe-48f7-aba3-14e8a85637b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

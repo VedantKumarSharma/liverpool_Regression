@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EDD gets display for the added SL item in cart</description>
+   <name>TC_GeoLocal_45</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8dd9cc5-40d5-4880-86a7-f27b67f678bd</testCaseGuid>
+</TestCaseEntity>

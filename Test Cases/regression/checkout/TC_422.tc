@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verrify the data to be displayed in the purchase summary are:
+●	Subtotal (number of products): The total amount to pay for all items purchased before discounts will appear on the right.
+●	Discount: On the right the discount amount will appear if applicable.
+●	Shipping cost: The shipping cost will be shown if applicable.
+●	Total (in bold): On the right the total to be paid will be shown in red, the result of the operation Subtotal - Discount + Shipping cost.
+●	The button to finalize the purchase should validate that the purchase has a delivery option and a payment method link
+●	The button to finalize the purchase has to validate the inventory of big ticket and softline products
+●	If the transaction fail, it will be in the one page with the legend no transaction and the user can change payment method or shipping method.&quot;</description>
+   <name>TC_422</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce779b52-692e-446a-8320-889b0a459503</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eebcfc72-36e3-4a6a-9d35-5d715d4f5ea0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18972a71-ab2c-4dc6-b59c-8e31e66baae6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be09124c-fdf6-49fc-ad9c-32d2eca46c57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eebcfc72-36e3-4a6a-9d35-5d715d4f5ea0</id>
+      <masked>false</masked>
+      <name>subTotalPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18972a71-ab2c-4dc6-b59c-8e31e66baae6</id>
+      <masked>false</masked>
+      <name>DiscountPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be09124c-fdf6-49fc-ad9c-32d2eca46c57</id>
+      <masked>false</masked>
+      <name>TotalPrice</name>
+   </variable>
+</TestCaseEntity>

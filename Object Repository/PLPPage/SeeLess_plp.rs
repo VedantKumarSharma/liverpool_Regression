@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SeeLess_plp</name>
+   <tag></tag>
+   <elementGuidId>730950ca-ff55-4752-8188-34180244d13b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Ver menos')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ad755f2-fe93-43f6-92c3-f5475a9d56ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link__viewMore</value>
+      <webElementGuid>2d672a2c-8188-4dd1-bdcd-7bd92dbc0554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda?s=mac#!</value>
+      <webElementGuid>51e8d3ca-5761-437f-ae3f-02f2a16d2300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver menos</value>
+      <webElementGuid>49cbfaab-0441-423f-8898-2d914dc60ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;plp-filter-options active&quot;]/a[@class=&quot;a-link__viewMore&quot;]</value>
+      <webElementGuid>b2f1b0ac-7047-4d49-93a2-64c9b134138a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[56]/div[2]/a</value>
+      <webElementGuid>93dce210-25ad-4ea4-a105-e11903af9172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ver menos')])[2]</value>
+      <webElementGuid>efa5646e-8cd0-4ff7-a569-4ae40b8ba305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tratamiento (3)'])[1]/following::a[1]</value>
+      <webElementGuid>207df5ff-dd8c-4179-93d5-52dc109b14a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teclado (1)'])[1]/following::a[1]</value>
+      <webElementGuid>ce5ea4e4-3efe-49b1-97d6-aa366b625636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ecac6e4-75f0-4843-8474-6c81b03f65f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelo del Procesador'])[1]/preceding::a[20]</value>
+      <webElementGuid>e7c7e0a3-fb0b-43cc-b761-841f703cf95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tienda?s=mac#!')])[7]</value>
+      <webElementGuid>7d0cd388-a104-47d3-a70a-7b036b5e3ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[56]/div[2]/a</value>
+      <webElementGuid>e604a5bc-6eb1-4b8e-8443-92a900492643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tienda?s=mac#!' and (text() = 'Ver menos' or . = 'Ver menos')]</value>
+      <webElementGuid>259991d0-f3e9-4d74-9a1c-e71a37b93923</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

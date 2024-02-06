@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a customer login or guest does not have a default shipping method, they have the option to select a Click and Collect store as the shipping method.</description>
+   <name>TC_218</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1f68a56-e17a-421d-9b7b-8cb12571cdef</testCaseGuid>
+</TestCaseEntity>

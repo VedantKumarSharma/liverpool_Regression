@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StickyProductPrice_pdp</name>
+   <tag></tag>
+   <elementGuidId>82333b82-6e7d-4385-8f78-a4adcbf24cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.a-stickyBar__price.-start.m-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>125a4995-e515-4931-8aff-20eb7fb2fe24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-stickyBar__price -start m-0</value>
+      <webElementGuid>fc1352ed-bd45-455a-808d-98cce0f22238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$32,31936</value>
+      <webElementGuid>9b9b1dc9-0fb6-4135-ba8e-90cffba78d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[4]/div[@class=&quot;o-stickyBar__container  show&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-xl-5&quot;]/div[@class=&quot;m-stickyBar__info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 pr-0&quot;]/div[@class=&quot;m-stickyBar__price -range&quot;]/p[@class=&quot;a-stickyBar__price -start m-0&quot;]</value>
+      <webElementGuid>10c0b677-ac4d-4f0d-b1e7-8bee625a61e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div/div/div/div[2]/div/div[2]/div/div/p</value>
+      <webElementGuid>85d53471-c0d5-4a05-be8d-ac81b7543f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[2]/following::p[2]</value>
+      <webElementGuid>4b831df6-1d1a-4414-aee6-20029ec66093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[1]/following::p[2]</value>
+      <webElementGuid>edb3ee02-6e9f-46d3-8f56-bdd0b62e8122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de producto'])[1]/preceding::p[2]</value>
+      <webElementGuid>1e88ee89-0053-43c5-a2fd-795fddee240d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ofertas y promociones'])[1]/preceding::p[2]</value>
+      <webElementGuid>e5916335-dedb-43a0-af59-bf9f25e3b3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$']/parent::*</value>
+      <webElementGuid>16b30477-388c-4df1-acc3-df4ba56f4a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>2785b480-79d6-4bb1-84d1-e787810f8c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$32,31936' or . = '$32,31936')]</value>
+      <webElementGuid>b337b973-dd9a-4139-9ae6-b56307a9b0e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

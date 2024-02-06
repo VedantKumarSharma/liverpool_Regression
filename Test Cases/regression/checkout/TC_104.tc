@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a user be celebrated person and be on their gift registry event and the product were gift certificated when user clicks on “Comprar ahora” button will appear a warning message to tell customer that this kind of article can be add as a personal purchase and customer won’t be redirect to Express checkout</description>
+   <name>TC_104</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c9383ac-44a5-423f-8ef3-ea781a66d025</testCaseGuid>
+</TestCaseEntity>

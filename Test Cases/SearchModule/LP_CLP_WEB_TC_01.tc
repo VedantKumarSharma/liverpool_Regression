@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the UI of Category Landing page of any selected Category</description>
+   <name>LP_CLP_WEB_TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48053909-4383-462e-9467-204d5e4dcdb4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To  verify  the  display of an error message  when the user  tries to login with an invalid credentials  in the  &quot;Inicia Sesion&quot; Overlay.</description>
+   <name>LP_TC_Acc-Mgt_07</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a5fec8-42a3-43f5-87b7-26b61ae64cbc</testCaseGuid>
+</TestCaseEntity>

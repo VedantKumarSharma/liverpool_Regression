@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ordenar por_plp</name>
+   <tag></tag>
+   <elementGuidId>2a7d51db-9dbf-45c3-8115-010ab4d01953</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='sortby'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4.col-xl-3.mb-4.pr-2.pl-0 > div.m-dropdown > div.dropdown > #sortby</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>477eb70f-9aea-426c-b244-4bf503759e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle sortBy</value>
+      <webElementGuid>4f35a6a8-37f6-4dc9-ae3d-ed399165f0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sortby</value>
+      <webElementGuid>eaebb31a-b7af-4a42-ad39-63d06fd3889b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda/tenis/catst4003357#!</value>
+      <webElementGuid>9f3c5884-2363-41f8-b19b-28003c8493bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ordenar por:</value>
+      <webElementGuid>f23e30b1-f3f3-4ef9-8d74-4770dfd6918b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 d-none d-lg-block pr-1 pr-1 pl-lg-1 pr-lg-1&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;col-lg-4 col-xl-3 mb-4 pr-2 pl-0&quot;]/div[@class=&quot;m-dropdown&quot;]/div[@class=&quot;dropdown&quot;]/a[@id=&quot;sortby&quot;]</value>
+      <webElementGuid>7b305474-f416-442b-bb35-b50f8f378d5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='sortby'])[2]</value>
+      <webElementGuid>e5590f24-ab58-4e6c-8bdf-f72b7533c894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/main/div/div/div/div/div/div/a</value>
+      <webElementGuid>2ac5fb4b-c6de-416f-a3db-9809014c68d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ordenar por:')])[2]</value>
+      <webElementGuid>41bdd925-33be-495d-91b1-9d97d64130e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificación'])[1]/following::a[1]</value>
+      <webElementGuid>7911ba58-35d4-4fe3-8b5d-98b91b1d12af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[3]/following::a[1]</value>
+      <webElementGuid>8cdda3c7-6ff7-4431-a13d-b6c6c69ad828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relevancia'])[2]/preceding::a[1]</value>
+      <webElementGuid>343a07af-79e2-440f-9fde-66a56eff375c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lo Más Nuevo'])[2]/preceding::a[1]</value>
+      <webElementGuid>eee7ed2d-0aa4-45aa-a009-b0f5531b77e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tienda/tenis/catst4003357#!')])[643]</value>
+      <webElementGuid>24195264-9c2a-46a3-ab59-0d649082de65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div/div/a</value>
+      <webElementGuid>03469e8c-12c1-4afa-8bfe-2cc28dde4934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'sortby' and @href = '/tienda/tenis/catst4003357#!' and (text() = 'Ordenar por:' or . = 'Ordenar por:')]</value>
+      <webElementGuid>85143b28-1e84-4515-bb39-59c458d72d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

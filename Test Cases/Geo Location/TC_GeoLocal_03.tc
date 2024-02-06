@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user able to select the favorite store and selected store gets display at the header</description>
+   <name>TC_GeoLocal_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8ffdb6c-cefa-4805-9a94-430cca8eba0f</testCaseGuid>
+</TestCaseEntity>

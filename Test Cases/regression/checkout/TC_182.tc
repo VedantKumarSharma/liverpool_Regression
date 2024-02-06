@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A Customer should have a option to change the shipping address to another address or store of C&amp;C saved as frequent.</description>
+   <name>TC_182</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>282510c4-cc4c-4aaa-a9a6-660e481df515</testCaseGuid>
+</TestCaseEntity>

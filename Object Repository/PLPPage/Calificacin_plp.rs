@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Calificacin_plp</name>
+   <tag></tag>
+   <elementGuidId>67cb3287-5e2b-4d3d-bbfa-b77d749f7123</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='col a-text__filter'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label[title=&quot;Calificación&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>60ed121c-9e85-42c3-a626-c8c29a9a5b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Calificación</value>
+      <webElementGuid>81b31542-db69-4df5-ad03-1d0b4ee73c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calificación</value>
+      <webElementGuid>2af3de96-7b04-4c3b-8faa-406692c04526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;a-plp__btnFilter&quot;]/button[@class=&quot;a-title__filter&quot;]/h3[@class=&quot;m-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col a-text__filter&quot;]/label[1]</value>
+      <webElementGuid>8ae1e4f9-21ed-4a93-8ca6-ac638daa2ac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[29]/div/div/button/h3/div/div/label</value>
+      <webElementGuid>b25235b8-8422-4be7-91e7-7b810a5355da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::label[1]</value>
+      <webElementGuid>7896088a-9eed-473d-92cf-58d086a01891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendido por'])[1]/preceding::label[2]</value>
+      <webElementGuid>1eaa2f08-6ae9-418d-a50e-9c3a1e1216d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liverpool (343)'])[1]/preceding::label[3]</value>
+      <webElementGuid>4832d536-d675-4108-90b1-d12c191847de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calificación']/parent::*</value>
+      <webElementGuid>c226fc44-60ce-4c8d-b267-8d2c3f5ebfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[29]/div/div/button/h3/div/div/label</value>
+      <webElementGuid>2dcc8fec-796c-4663-a554-bcb10e9ef5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Calificación' and (text() = 'Calificación' or . = 'Calificación')]</value>
+      <webElementGuid>578ed90a-f549-4b3c-ae33-4c2d03f8ae41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

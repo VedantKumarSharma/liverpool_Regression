@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SubCategory6_leftmenu_CLP</name>
+   <tag></tag>
+   <elementGuidId>ac87b00b-770a-4c08-8f62-cd52cbb676a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='nav-sub-link-leftMenu'][6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>bc2a250d-b9e4-4d24-bb10-a9a7222b9161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1678034514658</value>
+      <webElementGuid>4de65058-334e-4d7f-8787-3542a9d88bb5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

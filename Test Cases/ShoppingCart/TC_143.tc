@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product is exclusive,  downloadable-hybrid-physical, bundle,  clicking on the button &quot;Buy now&quot; will send the product to the Express Checkout if it has stock, if it does not have it, it will send the message &quot;We do not have enough inventory&quot; only for softline products, for big ticket no inventory will be validated.</description>
+   <name>TC_143</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2f22f54-de8b-46f9-ad1c-fdd3fd74cca5</testCaseGuid>
+</TestCaseEntity>

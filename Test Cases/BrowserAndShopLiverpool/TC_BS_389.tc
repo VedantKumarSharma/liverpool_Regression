@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of products on Product Listing Page when user is moving the price slider to different price ranges.</description>
+   <name>TC_BS_389</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d32949b-2f82-4457-973a-3fa5235ef384</testCaseGuid>
+</TestCaseEntity>

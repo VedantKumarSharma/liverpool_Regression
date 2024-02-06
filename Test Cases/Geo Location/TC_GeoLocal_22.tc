@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Pickup at store&quot;delivery flag with &quot;select your store&quot; link gets display under click and collect delivery section</description>
+   <name>TC_GeoLocal_22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3836dfe2-25f7-492b-86ec-0a3ac9ed3a72</testCaseGuid>
+</TestCaseEntity>

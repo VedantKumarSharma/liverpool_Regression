@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the breadcrumb is clickable in Category landing page</description>
+   <name>TC_BS_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dac1285-6bd1-4d9f-97b5-1d6fe4f61983</testCaseGuid>
+</TestCaseEntity>

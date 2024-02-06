@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify delivery flag and EDD gets updated depends on availability once user change the CP code using change direction link under &quot;ship home to&quot; delivery section</description>
+   <name>TC_GeoLocal_33_otp_required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>532d7d67-8199-467e-adbb-5a2dbb8456b1</testCaseGuid>
+</TestCaseEntity>

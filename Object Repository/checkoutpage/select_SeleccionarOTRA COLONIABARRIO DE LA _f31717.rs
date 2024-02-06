@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccionarOTRA COLONIABARRIO DE LA _f31717</name>
+   <tag></tag>
+   <elementGuidId>e8cd18db-7707-41b3-a742-2a66bb191284</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id=''])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;colony&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6e49d06f-baed-46c1-9cc8-3b5b869681db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-select__native-control</value>
+      <webElementGuid>e412d524-66c9-4404-bf61-2885619c0b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>colony</value>
+      <webElementGuid>955f9860-0ab6-4c20-8d35-f3c1d1eb7c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeleccionarOTRA COLONIABARRIO DE LA LUZBARRIO LOS ANGELESBARRIO SAN JOSEBARRIO SAN MARCOSBARRIO SANTACRUZBARRIO STA. MARTACAMINO REAL PLATACDA ANAYACENTRO SAN PABLO OZTOTEPECCENTRO SAN PABLO OZTOTEPECCOLONIALA CONCEPCIONLA CONCEPCION VILLA MILPA ALTALA LUZLA LUZ VILLA MILPA ALTALA NORIALOS ANGELESLOS ANGELES VILLA MILPA ALTAMILPA ALTAN75ORIZABAPROLONGACION OLIMPICAPUEBLO SAN PEDRO ATOCPANSAN AGUSTIN EL ALTOSAN ANTONIO TECOMITLSAN JOSE SANTA ANA TLACOTENCOSAN JOSE SANTA ANA TLACOTENCOSAN MATEOSAN MATEO VILLA MILPA ALTASAN PABLO OZTOTEPECSAN PEDROSAN PEDRO ACTOPANSAN PEDRO ATOCPANSANTA ANASANTA CRUZSANTA CRUZ VILLA MILPA ALTASANTA MARTHASANTA MARTHA VILLA MILPA ALTASN ANTONIO TECOMILTSTA ANA TALCOTENCOTEHUACANURBANOVILLA MILPA ALTA CENTRO0000000000000</value>
+      <webElementGuid>4353db75-9d41-4fa0-bedd-53f7b1f6c907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_modalAddNewShipAddress&quot;)/form[1]/div[@class=&quot;row align-items-start&quot;]/div[@class=&quot;col-xl-3 col-lg-3 col-12&quot;]/div[@class=&quot;mdc-select mdc-select--outlined mdc-select--required mdc-notched-outline--notched mdc-select--valid&quot;]/select[@class=&quot;mdc-select__native-control&quot;]</value>
+      <webElementGuid>a1f3e515-8bdc-48cc-8c8c-88cc2420372e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id=''])[4]</value>
+      <webElementGuid>3b13b66f-2a09-42f5-9046-151907c5d0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_modalAddNewShipAddress']/form/div[4]/div[7]/div/select</value>
+      <webElementGuid>bdc9a589-c53d-4e0f-aac0-569ff1bd1cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Municipio o Delegación:'])[1]/following::select[1]</value>
+      <webElementGuid>54b5055d-6c25-401f-80a9-784fd42ba854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciudad:'])[1]/following::select[2]</value>
+      <webElementGuid>a4e0eff6-7bbd-46d9-9d51-8b35e920728a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colonia'])[1]/preceding::select[1]</value>
+      <webElementGuid>06d983ef-a622-425c-b1c1-9be7f0910e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calle:'])[1]/preceding::select[1]</value>
+      <webElementGuid>90cb3283-3d1b-44b6-a890-151a620e6f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/select</value>
+      <webElementGuid>0b4051d1-5d67-45f3-80c5-2411670a1ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'colony' and (text() = 'SeleccionarOTRA COLONIABARRIO DE LA LUZBARRIO LOS ANGELESBARRIO SAN JOSEBARRIO SAN MARCOSBARRIO SANTACRUZBARRIO STA. MARTACAMINO REAL PLATACDA ANAYACENTRO SAN PABLO OZTOTEPECCENTRO SAN PABLO OZTOTEPECCOLONIALA CONCEPCIONLA CONCEPCION VILLA MILPA ALTALA LUZLA LUZ VILLA MILPA ALTALA NORIALOS ANGELESLOS ANGELES VILLA MILPA ALTAMILPA ALTAN75ORIZABAPROLONGACION OLIMPICAPUEBLO SAN PEDRO ATOCPANSAN AGUSTIN EL ALTOSAN ANTONIO TECOMITLSAN JOSE SANTA ANA TLACOTENCOSAN JOSE SANTA ANA TLACOTENCOSAN MATEOSAN MATEO VILLA MILPA ALTASAN PABLO OZTOTEPECSAN PEDROSAN PEDRO ACTOPANSAN PEDRO ATOCPANSANTA ANASANTA CRUZSANTA CRUZ VILLA MILPA ALTASANTA MARTHASANTA MARTHA VILLA MILPA ALTASN ANTONIO TECOMILTSTA ANA TALCOTENCOTEHUACANURBANOVILLA MILPA ALTA CENTRO0000000000000' or . = 'SeleccionarOTRA COLONIABARRIO DE LA LUZBARRIO LOS ANGELESBARRIO SAN JOSEBARRIO SAN MARCOSBARRIO SANTACRUZBARRIO STA. MARTACAMINO REAL PLATACDA ANAYACENTRO SAN PABLO OZTOTEPECCENTRO SAN PABLO OZTOTEPECCOLONIALA CONCEPCIONLA CONCEPCION VILLA MILPA ALTALA LUZLA LUZ VILLA MILPA ALTALA NORIALOS ANGELESLOS ANGELES VILLA MILPA ALTAMILPA ALTAN75ORIZABAPROLONGACION OLIMPICAPUEBLO SAN PEDRO ATOCPANSAN AGUSTIN EL ALTOSAN ANTONIO TECOMITLSAN JOSE SANTA ANA TLACOTENCOSAN JOSE SANTA ANA TLACOTENCOSAN MATEOSAN MATEO VILLA MILPA ALTASAN PABLO OZTOTEPECSAN PEDROSAN PEDRO ACTOPANSAN PEDRO ATOCPANSANTA ANASANTA CRUZSANTA CRUZ VILLA MILPA ALTASANTA MARTHASANTA MARTHA VILLA MILPA ALTASN ANTONIO TECOMILTSTA ANA TALCOTENCOTEHUACANURBANOVILLA MILPA ALTA CENTRO0000000000000')]</value>
+      <webElementGuid>c668d9d1-c04d-4267-8606-63e9b7eba603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

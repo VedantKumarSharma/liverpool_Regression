@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_LiverpoolDuty FreeCentros Comerciales</name>
+   <tag></tag>
+   <elementGuidId>1424563f-708e-42bd-858b-2eaefaa8d6aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='select-state'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>85b5a71f-89ec-42bc-9fab-4a54c482af42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-select__native-control</value>
+      <webElementGuid>3e19670c-e1b5-411d-9264-cc85a46e2d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select-state</value>
+      <webElementGuid>b38565b2-cb40-4c5a-b5b8-dd361568fb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LiverpoolDuty FreeCentros Comerciales</value>
+      <webElementGuid>ccff6846-e665-4ec4-a221-eeb5f7bc8484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container p-0&quot;]/div[@class=&quot;row mt-lg-3 mb-lg-5 mb-0&quot;]/aside[@class=&quot;col-lg-4&quot;]/div[@class=&quot;o-storeLocator-aside d-none d-lg-block&quot;]/div[@class=&quot;mdc-ripple-upgraded mdc-select--focused mdc-ripple-upgraded--background-focused&quot;]/div[@class=&quot;mdc-select mdc-select--outlined mdc-select--focused&quot;]/select[@id=&quot;select-state&quot;]</value>
+      <webElementGuid>d1dd71b2-1a6d-4d5d-be65-622092476568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='select-state'])[2]</value>
+      <webElementGuid>efd247e1-2255-4bbf-b17e-fe89cd59a25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/aside/div/div[6]/div/select</value>
+      <webElementGuid>ef3ed3cf-a2b7-4c5c-8268-7003788fc696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione estado'])[1]/following::select[1]</value>
+      <webElementGuid>5e35e77b-d7db-41be-89a4-44c1bfce94ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Busca un Liverpool, Centro comercial o Dutty free'])[1]/following::select[2]</value>
+      <webElementGuid>a737bf2d-2b41-427a-af0a-838cac8757e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrar por tipo de tienda'])[1]/preceding::select[1]</value>
+      <webElementGuid>c1a5a807-94cd-4496-9979-0feef7572f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/select</value>
+      <webElementGuid>2a9fefef-2812-4e9a-b326-af9ab786ba41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'select-state' and (text() = 'LiverpoolDuty FreeCentros Comerciales' or . = 'LiverpoolDuty FreeCentros Comerciales')]</value>
+      <webElementGuid>a42c6456-b387-48eb-ae04-5940c81ba88a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

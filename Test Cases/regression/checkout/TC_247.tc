@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In the event that a celebrated has a GR product and a Digital product in One Page checkout, the legend of the downloadable product will appear in the shipping method section.</description>
+   <name>TC_247</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b49db87-a04e-45eb-bda3-84f56213a7cf</testCaseGuid>
+</TestCaseEntity>

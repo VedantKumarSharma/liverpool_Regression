@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Color_plp</name>
+   <tag></tag>
+   <elementGuidId>fe0cdfca-4777-48de-8011-21889aee8c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='col a-text__filter'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label[title=&quot;Color&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>10067800-1236-479f-95c6-ebc393747432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Color</value>
+      <webElementGuid>16bd39fb-0950-4faf-81e2-c45d4f345a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Color</value>
+      <webElementGuid>5f1cc878-e6c9-4d06-bd2f-1f280a62356a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;a-plp__btnFilter&quot;]/button[@class=&quot;a-title__filter&quot;]/h3[@class=&quot;m-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col a-text__filter&quot;]/label[1]</value>
+      <webElementGuid>02325bf7-5a7f-496b-890e-74f98fbc66dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[26]/div/button/h3/div/div/label</value>
+      <webElementGuid>2bd0ad2a-0b8b-416f-884d-47d797335607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/following::label[1]</value>
+      <webElementGuid>575d696a-69d9-48f0-b240-bd7fccb42cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño'])[1]/preceding::label[1]</value>
+      <webElementGuid>2641c467-83e8-49ef-bad8-1eeb3ff1f71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CH (433)'])[1]/preceding::label[21]</value>
+      <webElementGuid>222ff0cf-834d-4a02-99d3-fe777ce80161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Color']/parent::*</value>
+      <webElementGuid>0f428f02-0fde-4646-b23e-27a35206f8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[26]/div/button/h3/div/div/label</value>
+      <webElementGuid>7674a86c-9984-4f3e-9d54-cedacc57d62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Color' and (text() = 'Color' or . = 'Color')]</value>
+      <webElementGuid>680dcfeb-c186-463a-a46d-32dbc8076d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

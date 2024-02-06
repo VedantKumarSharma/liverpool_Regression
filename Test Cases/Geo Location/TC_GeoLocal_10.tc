@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify error message gets on entering invalid CP code / City / Store name in search text box of select your store popup</description>
+   <name>TC_GeoLocal_10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55f97fc6-8d1e-430a-a1bb-4e3a6cb1ce16</testCaseGuid>
+</TestCaseEntity>

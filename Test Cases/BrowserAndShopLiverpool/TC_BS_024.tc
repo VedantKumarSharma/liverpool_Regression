@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of  any product does not have a promo price forhigh to Low  it considers as the list price</description>
+   <name>TC_BS_024</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18a02c7c-0fb8-4e10-a331-f3f8c283b536</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify the &quot;&quot;Add to Cart&quot;&quot; functionality on the PDP page with:
+a. SL PARENT A - Single Variant default SKU 
+b. BT GIFT A - default SKU, where  SL PARENT item is in stock
+and BT GIFT item is in stock
+&quot;</description>
+   <name>TC_BS_101</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>d4cce208-c282-457b-8c7c-54a1958938e6</testCaseGuid>
+</TestCaseEntity>

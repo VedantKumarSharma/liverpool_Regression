@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productSection_opc</name>
+   <tag></tag>
+   <elementGuidId>6c4935d7-93d2-4122-b6e1-64427d22712e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc_productsContainer']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-card-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ddef6265-8a0f-41d7-aacf-ef751137097f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-card-container</value>
+      <webElementGuid>75de363a-31d3-423b-a5f4-b8061a55b76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate,   Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate, Entrega estimada:  22 de marzo-27 de marzo $ 1,799  00 $ 1,349  25+Comprar para mesa de regalosMover a WishlistEliminar $ 1,799  00 $ 1,349  25+ $ 1,349  25Entrega estimada:  22 de marzo-27 de marzo* Elige una promoción25% de descuento.Comprar para mesa de regalosMover a WishlistEliminar</value>
+      <webElementGuid>80820eb1-81aa-4d5b-b86d-ca9e51186211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_productsContainer&quot;)/div[@class=&quot;col-12 m-box m-box-adjust m-checkout__productAdded pt-3&quot;]/div[@class=&quot;product-card-container&quot;]</value>
+      <webElementGuid>1c2c1287-0144-49d6-b313-b56f7faac65c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_productsContainer']/div/div[2]</value>
+      <webElementGuid>0c940e4a-403d-4923-866d-bc3d522eab08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[1]/following::div[1]</value>
+      <webElementGuid>6baf4417-361e-4a7f-a231-76f429c89a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='puede cobrar comisión'])[1]/following::div[13]</value>
+      <webElementGuid>9f99c2ef-6792-41a4-a427-980be89d9bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]</value>
+      <webElementGuid>1bf8b958-76b4-4868-8b1c-376a5113946f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate,   Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate, Entrega estimada:  22 de marzo-27 de marzo $ 1,799  00 $ 1,349  25+Comprar para mesa de regalosMover a WishlistEliminar $ 1,799  00 $ 1,349  25+ $ 1,349  25Entrega estimada:  22 de marzo-27 de marzo* Elige una promoción25% de descuento.Comprar para mesa de regalosMover a WishlistEliminar' or . = 'Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate,   Zapato derby Dockers para hombreCantidad:1, Talla:28 cm, Color:Chocolate, Entrega estimada:  22 de marzo-27 de marzo $ 1,799  00 $ 1,349  25+Comprar para mesa de regalosMover a WishlistEliminar $ 1,799  00 $ 1,349  25+ $ 1,349  25Entrega estimada:  22 de marzo-27 de marzo* Elige una promoción25% de descuento.Comprar para mesa de regalosMover a WishlistEliminar')]</value>
+      <webElementGuid>b605f602-f932-46da-bd3d-8a9a2c343b56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the system  is displaying the %discount promotion applied in the Confirma tu compra&quot; page</description>
+   <name>TC_Checkout_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32357da0-2d16-4d84-86bd-4701c37010ae</testCaseGuid>
+</TestCaseEntity>

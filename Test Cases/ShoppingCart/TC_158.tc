@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The functionality “Save for later” will be maintained for all personal items and clicking will send the item to the following tab. When reaching the maximum number of items configured, it will display an alert message with the legend “You have reached the maximum item limit. Saved ”and if the article is already in the tab it will show the message“ saved article ”.</description>
+   <name>TC_158</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fc4171d-9a5f-4433-a714-5698fc54a132</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the preselection of BT GIFT items in the gift list drop down for a BT PARENT item having single variant with first BT GIFT item selected</description>
+   <name>TC_BS_093</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>dac1ad17-1740-4ad8-9595-4bf19758e7e8</testCaseGuid>
+</TestCaseEntity>

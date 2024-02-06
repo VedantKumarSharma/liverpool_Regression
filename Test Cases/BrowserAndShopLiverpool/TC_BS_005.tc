@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of left navigation slot in  category landing page.                          Defect Id - 4858</description>
+   <name>TC_BS_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10390f46-51fd-435c-a80e-33c0e11986ee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productDetails_orderDetails</name>
+   <tag></tag>
+   <elementGuidId>05518f2c-4212-4a98-a9fe-7e2cfa79cbd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='o-orderDetail__products']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-8.m-col.col-lg-9.px-lg-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2dce2a4-62cb-4301-82e9-4ab1e6fda24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 m-col col-lg-9 px-lg-0</value>
+      <webElementGuid>9c59de1c-efd9-4a59-af2d-6c8012358437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ZAPATO DOCKERS D2122, 28 CM, CHOCOLATECódigo de producto:1111964218Talla: 28 cmColor: Chocolate$1799.00Cantidad:1Cantidad:125% DE DESCUENTO.Total:$1349.25</value>
+      <webElementGuid>33a8122c-d399-4ee7-81fd-14a9ad2259f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container-fluid o-main-container p-0&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/div[@class=&quot;col-lg-9 m-column_mainContent Detalles_MainContent_Margin_top&quot;]/div[@class=&quot;o-orderDetail&quot;]/div[@class=&quot;row o-row&quot;]/div[@class=&quot;col-12 o-col&quot;]/div[@class=&quot;row o-row o-orderDetail__card Detalles_Card_Margin_bottom&quot;]/div[@class=&quot;col-12 px-lg-0&quot;]/div[@class=&quot;o-orderDetail__products&quot;]/div[@class=&quot;col-12 o-col&quot;]/div[@class=&quot;row o-row o-orderDetail__product&quot;]/div[@class=&quot;col-8 m-col col-lg-9 px-lg-0&quot;]</value>
+      <webElementGuid>34ea29b5-0ca5-4735-ad1e-3d88da850921</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[4]/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>70c32320-fb30-4bbd-b85a-436ed90fc01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1349.25'])[1]/following::div[15]</value>
+      <webElementGuid>dfa4e65f-10af-46b2-9f1b-85ef49fca8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>d35c8980-60c7-4c56-a5c4-99ea32608fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ZAPATO DOCKERS D2122, 28 CM, CHOCOLATECódigo de producto:1111964218Talla: 28 cmColor: Chocolate$1799.00Cantidad:1Cantidad:125% DE DESCUENTO.Total:$1349.25' or . = 'ZAPATO DOCKERS D2122, 28 CM, CHOCOLATECódigo de producto:1111964218Talla: 28 cmColor: Chocolate$1799.00Cantidad:1Cantidad:125% DE DESCUENTO.Total:$1349.25')]</value>
+      <webElementGuid>5cc17fab-7a3f-49b8-8b6d-412fa2eb7db4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

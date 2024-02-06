@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the functionality of the &quot;Inicia Sesion&quot; link when the user clicks on the Inicia Sesion.</description>
+   <name>LP_TC_Acc-Mgt_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97cbaab0-da09-4fbd-b97d-2afb7b7592b6</testCaseGuid>
+</TestCaseEntity>

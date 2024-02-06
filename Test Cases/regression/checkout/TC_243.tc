@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user has Marketplace products in One Page checkout, it should be possible to select a C&amp;C store as the delivery method.</description>
+   <name>TC_243</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e544e59c-ce08-4028-9972-6f20e1414df2</testCaseGuid>
+</TestCaseEntity>

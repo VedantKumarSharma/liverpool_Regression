@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addressSection_confirmation</name>
+   <tag></tag>
+   <elementGuidId>37f0880e-fab4-439f-a04e-f986caae829d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-box.address-section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='m-box address-section']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c97abb54-98d4-489b-923e-dbd084e8c2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-box address-section</value>
+      <webElementGuid>93d1aa0c-5232-4f4d-b1f2-ae46523bcea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviaremos tus productos a:Duskin Armoni9425466490, 52, HIDALGO, 22056, BAJA CALIFORNIA, Tijuana</value>
+      <webElementGuid>f3aa4b70-5ed2-477c-b071-56a7e700740e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-confirmation-page&quot;)/div[@class=&quot;two-blocks-layout section-container&quot;]/div[@class=&quot;m-box address-section&quot;]</value>
+      <webElementGuid>5bb490d5-e60f-4f20-bbdd-de31b7bd6453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-confirmation-page']/div[3]/div</value>
+      <webElementGuid>eca455b6-a4b1-4449-8a5b-70b3a75f7107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El tiempo estimado de entrega aplica sólo a pagos inmediatos'])[1]/following::div[2]</value>
+      <webElementGuid>6657be93-d33e-4a82-b645-fa422b0a0f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[1]/following::div[3]</value>
+      <webElementGuid>64cb2f75-25cf-4f06-b18d-7ecd8f05f309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>e25eb4b8-1cf8-4a53-8ee1-545390f2d679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enviaremos tus productos a:Duskin Armoni9425466490, 52, HIDALGO, 22056, BAJA CALIFORNIA, Tijuana' or . = 'Enviaremos tus productos a:Duskin Armoni9425466490, 52, HIDALGO, 22056, BAJA CALIFORNIA, Tijuana')]</value>
+      <webElementGuid>bcd91030-97b4-46a2-beb4-fe252a3127a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

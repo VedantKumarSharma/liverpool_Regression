@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Filter_plp</name>
+   <tag></tag>
+   <elementGuidId>aac4cd2a-b869-433f-afb5-5b5fd884370d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='mdc-chip a-plp__filterSelection']/div[@class='mdc-chip__text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.plp-filters-container.mt-3.mb-3 > div.mdc-chip-set > div.mdc-chip.a-plp__filterSelection > div.mdc-chip__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66ea253a-c1ab-4c86-9c44-d69cd03f24b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-chip__text</value>
+      <webElementGuid>62dc6f16-5097-4ae5-9b6b-653e97d96cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>40.0 % o más</value>
+      <webElementGuid>e551e829-7e95-4dfd-8601-c48050c571cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterApplied mt-4&quot;]/div[@class=&quot;plp-filters-container mt-3 mb-3&quot;]/div[@class=&quot;mdc-chip-set&quot;]/div[@class=&quot;mdc-chip a-plp__filterSelection&quot;]/div[@class=&quot;mdc-chip__text&quot;]</value>
+      <webElementGuid>285ad33d-b530-4f7d-92c2-8d9ae4ac27a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>d5bac2ca-f691-48d2-a776-d926992113d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar Filtros'])[1]/following::div[5]</value>
+      <webElementGuid>b183792c-bf92-4789-a3b1-c44627bb4c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorías'])[2]/preceding::div[1]</value>
+      <webElementGuid>e024ad2a-bd70-49ad-8ca9-8c0084154245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrónica'])[1]/preceding::div[6]</value>
+      <webElementGuid>2703416a-bfe2-4da1-8e51-a8af32d85c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>164a9aa7-5cda-41e8-9dcf-9d370e26dfd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '40.0 % o más' or . = '40.0 % o más')]</value>
+      <webElementGuid>2bc80799-6e95-4664-83d7-ec9d1442539a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ratingSection_pdp</name>
+   <tag></tag>
+   <elementGuidId>598e0b08-c50d-4c38-a85b-2b0d7a6deffc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='m-product__information--rating']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.TT2left.TTratingBox.TTrating-4-5 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3c0aeae2-6aae-4d71-b822-4d85421023de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#ratings</value>
+      <webElementGuid>1a6db375-d190-4d03-a9a3-9ba202829eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;o-product__description&quot;]/div[@class=&quot;m-product__information--rating&quot;]/fieldset[@class=&quot;rating&quot;]/span[@class=&quot;TurnToReviewsTeaser&quot;]/div[@class=&quot;RRBox&quot;]/div[@class=&quot;TT2left TTratingBox TTrating-4-5&quot;]/a[1]</value>
+      <webElementGuid>6e398d87-bb4a-4e09-914b-0652ef5157df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/main/div[2]/div/fieldset/span/div/div/a</value>
+      <webElementGuid>03e78412-f5cb-406a-99c7-dd06db145387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#ratings')]</value>
+      <webElementGuid>5c807170-d5aa-4f2e-ac67-89d995225d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/a</value>
+      <webElementGuid>0150033a-856c-4258-a981-87c81425e984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#ratings']</value>
+      <webElementGuid>9c8d18bb-a58a-4553-8021-a50e87dd96a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

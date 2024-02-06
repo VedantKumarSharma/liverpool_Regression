@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Price_3_plp</name>
+   <tag></tag>
+   <elementGuidId>4b5a8b27-98b7-4242-b19d-0cbb52e43bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='fiterl-prices']/div[@class='m-radioButton mdc-form-field'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6e9fd1a4-56e9-45b8-8324-82b881316cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$1000.0 -$2000.0 (26)</value>
+      <webElementGuid>e592744e-6d18-49bd-b2e7-12a536af549f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterSection&quot;]/div[@class=&quot;plp-filter-options active&quot;]/div[@class=&quot;fiterl-prices&quot;]/div[@class=&quot;m-radioButton mdc-form-field&quot;]/label[1]</value>
+      <webElementGuid>db09b1e7-32ea-42f5-b416-c065f2a500fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[53]/div[2]/div/div[4]/label</value>
+      <webElementGuid>a7c2819a-0842-4ec5-8b4b-a68b4041527a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$1000.0 -$2000.0']/parent::*</value>
+      <webElementGuid>f2b9a7d8-d42a-43ba-8b0f-c9f9abb80f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[53]/div[2]/div/div[4]/label</value>
+      <webElementGuid>2ae564ce-f7e1-4d0e-8c71-38fbd34fbbcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '$1000.0 -$2000.0 (26)' or . = '$1000.0 -$2000.0 (26)')]</value>
+      <webElementGuid>55ee1c76-cc31-47dc-8f4d-b0ead9b41a6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of facets on the PLP.                                Defect Id - 4864</description>
+   <name>TC_BS_018</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d07965bb-b3cf-4f57-a87a-8f3af4d37570</testCaseGuid>
+</TestCaseEntity>

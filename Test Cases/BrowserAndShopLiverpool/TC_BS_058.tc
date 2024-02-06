@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is able to search the store by entering the store name in the Search text box on the Store Locator Page.</description>
+   <name>TC_BS_058</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfe5efb3-83bc-42a7-a84e-1a8773e055a0</testCaseGuid>
+</TestCaseEntity>

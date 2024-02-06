@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify default address gets display with my direction tag in change direction popup</description>
+   <name>TC_GeoLocal_35</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cdff6ba-c458-433f-ab47-10b8e350c5a2</testCaseGuid>
+</TestCaseEntity>

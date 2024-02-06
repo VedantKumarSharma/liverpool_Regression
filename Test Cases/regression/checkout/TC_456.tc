@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If customer change the payment method the promotions should be updated for each product</description>
+   <name>TC_456</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6585117b-3e7e-4421-beb4-56a86ba289ce</testCaseGuid>
+</TestCaseEntity>

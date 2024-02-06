@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is able to add products by clicking on the &quot;Agregar mi bolsa&quot; button.</description>
+   <name>TC_BS_012</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa7d3fc3-a848-44e8-9b5a-c99fc12af7a5</testCaseGuid>
+</TestCaseEntity>

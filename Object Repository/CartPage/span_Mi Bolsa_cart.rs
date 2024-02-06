@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mi Bolsa_cart</name>
+   <tag></tag>
+   <elementGuidId>b20249e6-1218-4ebb-add8-eabb51a12938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mt-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd2c7bc1-de45-4119-b671-fab238b065be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-3</value>
+      <webElementGuid>f1568a62-b82e-4f54-ae13-64a033e6e1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mi Bolsa</value>
+      <webElementGuid>1e9adcdc-adda-4989-a194-5bf68d8d0dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;cart-alert-top&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;textHeading&quot;]/span[@class=&quot;mt-3&quot;]</value>
+      <webElementGuid>a4d89bea-6bdc-4305-bc3d-864841638c74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/span</value>
+      <webElementGuid>3acfb7eb-6551-4e5b-a984-299054b91ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1,799.00'])[1]/following::span[1]</value>
+      <webElementGuid>58a404ed-24dc-4523-9a48-2ffb359c87c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Producto'])[1]/preceding::span[1]</value>
+      <webElementGuid>87170cf8-c724-48ce-82aa-3ff1a7798158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio'])[1]/preceding::span[2]</value>
+      <webElementGuid>b2d0cfae-6618-455d-a129-fcba4ddce971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mi Bolsa']/parent::*</value>
+      <webElementGuid>53e9dacc-e3ca-4bee-ae8e-fbe4afc81b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/span</value>
+      <webElementGuid>77d37538-00a2-4140-b0fe-c1f4abe8ab77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mi Bolsa' or . = 'Mi Bolsa')]</value>
+      <webElementGuid>dee87478-2d95-461e-aa57-bec831b7ff24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

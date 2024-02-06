@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the systems save a new shipping address must validate the nickname (alias) and mustn't repeat it, if the user has some address with the same nickname, alert message should appear.</description>
+   <name>TC_171</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caee2182-8561-4b61-92f9-5a1c9af4d2b7</testCaseGuid>
+</TestCaseEntity>

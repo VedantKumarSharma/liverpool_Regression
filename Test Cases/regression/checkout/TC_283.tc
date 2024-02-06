@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Within the list of frequent stores, each store will have a menu, this menu has the following options:</description>
+   <name>TC_283</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd0f6ad1-0cf0-4e17-90f7-e969b8867b42</testCaseGuid>
+</TestCaseEntity>

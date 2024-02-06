@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the format of URL when user clicks on pagination links</description>
+   <name>LP_PLP_WEB_TC__40</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>597e64d3-6ada-4328-8d36-76b80c7bd8e8</testCaseGuid>
+</TestCaseEntity>

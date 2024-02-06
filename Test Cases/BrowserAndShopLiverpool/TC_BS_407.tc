@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the add to cart button on sticky banner for SL/BT/ and Technologia items.</description>
+   <name>TC_BS_407</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfdfe01d-734e-4a6e-9d3e-a0c1bd685f90</testCaseGuid>
+</TestCaseEntity>

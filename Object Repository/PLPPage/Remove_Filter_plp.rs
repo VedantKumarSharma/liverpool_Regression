@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Remove_Filter_plp</name>
+   <tag></tag>
+   <elementGuidId>c3b50ce5-8354-446b-ba0d-42737fea96ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='mdc-chip__text']/i[@class='icon-close'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.plp-filters-container.mt-3.mb-3 > div.mdc-chip-set > div.mdc-chip.a-plp__filterSelection > div.mdc-chip__text > i.icon-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>add780d0-c996-4cc9-8e23-ea2ebf70723d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-close</value>
+      <webElementGuid>73823f37-bd4a-4e2c-bc33-ff17dfb4e46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;m-plp-cat-container d-none d-lg-block mb-5&quot;]/div[@class=&quot;o-aside d-aside--margin&quot;]/div[@class=&quot;m-plp__filterApplied mt-4&quot;]/div[@class=&quot;plp-filters-container mt-3 mb-3&quot;]/div[@class=&quot;mdc-chip-set&quot;]/div[@class=&quot;mdc-chip a-plp__filterSelection&quot;]/div[@class=&quot;mdc-chip__text&quot;]/i[@class=&quot;icon-close&quot;]</value>
+      <webElementGuid>329ab068-8dde-4e57-ac9f-8b5709832baf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>a87723db-ad52-4766-b635-17bde37b1656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/i</value>
+      <webElementGuid>1c92db07-c738-47d2-8d6b-260582310a69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot; To verify that the system checks local inventory for the BT PARENT item and BT gift item on PDP page
+&quot;</description>
+   <name>TC_BS_096</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>e1910dfd-8ce3-4510-b7b1-aabb709815ef</testCaseGuid>
+</TestCaseEntity>

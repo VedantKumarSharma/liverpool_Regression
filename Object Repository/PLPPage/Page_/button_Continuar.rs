@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continuar</name>
+   <tag></tag>
+   <elementGuidId>cbb8267f-6db2-4a4a-888a-35924aea66fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc_deliveryPayModalButtons']/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--primary.11</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ad80074-890c-4f7d-9d9e-05236892f1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--primary 11</value>
+      <webElementGuid>59f88a30-57ec-4e5e-b880-de6de41d4ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>bed0dc71-49d1-4871-82d0-07a55ef76c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_deliveryPayModalButtons&quot;)/div[@class=&quot;opc_continuarModal isAndroid&quot;]/button[@class=&quot;a-btn a-btn--primary 11&quot;]</value>
+      <webElementGuid>9e5f5d0b-f2a3-4b9c-9ca0-75b1ecaf703c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_deliveryPayModalButtons']/div/button</value>
+      <webElementGuid>2a05b37c-9314-41a1-a3d1-243588539372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::button[1]</value>
+      <webElementGuid>23d1a514-e35f-4481-9d1d-0c7d712e599a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPORTANTE:'])[2]/following::button[1]</value>
+      <webElementGuid>2b720cff-f858-4c97-9708-91c6e0cecd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienes un cupón disponible en tu bolsa'])[1]/preceding::button[1]</value>
+      <webElementGuid>f7f1fbb7-e2fc-433e-83a6-8a873a8ce6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver mis cupones'])[1]/preceding::button[1]</value>
+      <webElementGuid>b618a5f5-0f15-4e50-98bc-6056619be811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
+      <webElementGuid>59d6793d-15b5-4e22-921c-9f695ae50054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>347d7173-c82a-4184-ae8c-a9d1b71d395c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>b93e4aa4-5c13-451b-bac2-9318b750c861</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

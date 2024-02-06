@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;select your store&quot; popup gets display on clicking &quot;select your store&quot; link under click and collect delivery section in PDP</description>
+   <name>TC_GeoLocal_23</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc8a389d-0a11-4c69-9cbc-6d0bc166590a</testCaseGuid>
+</TestCaseEntity>

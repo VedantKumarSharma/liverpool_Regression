@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that store gets listed when user search by (Zipcode,State,City and Store Name) in Select your store popup and selected store gets display at the header</description>
+   <name>TC_GeoLocal_07</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e50da11c-cf71-4071-ab73-c805a1114acc</testCaseGuid>
+</TestCaseEntity>

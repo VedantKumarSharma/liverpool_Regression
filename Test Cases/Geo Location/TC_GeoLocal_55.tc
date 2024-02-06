@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EDD gets display under click &amp; collect and ship home to  delivery section in &quot;More delivery option&quot; popup as same as PDP</description>
+   <name>TC_GeoLocal_55</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c270b4f4-e44a-48c9-afb0-311ddc93c7ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>totalPrice_confirmation</name>
+   <tag></tag>
+   <elementGuidId>38891eed-cf20-4bca-b176-98ef70fe33c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-total</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='payment-total']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eefd5eaa-919d-409f-bd89-83cf83c61ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-total</value>
+      <webElementGuid>a9ea6327-4f45-40f8-a372-8e2d6014ce08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$1,349.25 (IVA incluído)</value>
+      <webElementGuid>693b7608-2778-48a2-be84-0b8cbf84a48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-confirmation-page&quot;)/div[@class=&quot;two-blocks-layout section-container&quot;]/div[@class=&quot;m-box payment-section&quot;]/div[@class=&quot;payment-total&quot;]</value>
+      <webElementGuid>f81b4fac-6967-4b76-9799-b14602e8bc88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-confirmation-page']/div[3]/div[2]/div[2]</value>
+      <webElementGuid>4af76670-c53f-4dfe-b896-29969be88712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago en efectivo:'])[1]/following::div[1]</value>
+      <webElementGuid>afb713c2-509f-4656-9dab-7299f4dfe7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tijuana'])[1]/following::div[3]</value>
+      <webElementGuid>61b71c8e-7b7e-4ace-bbfa-89da53912267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago pendiente'])[1]/preceding::div[1]</value>
+      <webElementGuid>de5bc062-e4de-4325-a2d8-706b4d7376aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$1,349.25']/parent::*</value>
+      <webElementGuid>d211dfa0-4842-427a-978b-53c33d0292a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>1892ebe6-fa05-49c7-a8ed-1db7d4236540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$1,349.25 (IVA incluído)' or . = '$1,349.25 (IVA incluído)')]</value>
+      <webElementGuid>129b24e3-0054-43c1-aed1-f878af32885c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

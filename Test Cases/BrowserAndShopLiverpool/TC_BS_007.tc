@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of PLP upon clicking the L3 category from the fly out provided L3 has no child categories.    Defect id - 8088</description>
+   <name>TC_BS_007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec579442-4c15-4a93-b34c-a19ea92e5ff4</testCaseGuid>
+</TestCaseEntity>

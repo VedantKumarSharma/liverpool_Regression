@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a customer has a GR product and an MKP product in One Page checkout, in the shipping method section, the default C&amp;C store should be displayed if previously configured.</description>
+   <name>TC_248</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4e01fe5-2580-4c28-a4f4-91dbdcfa1cb7</testCaseGuid>
+</TestCaseEntity>

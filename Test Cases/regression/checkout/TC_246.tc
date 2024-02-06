@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In the event that a customer has only a Digital product and a GR product in One Page checkout, the legend of the downloadable product will appear in the shipping address section.</description>
+   <name>TC_246</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c92c146b-4052-4d0f-9bd0-926e1393ed77</testCaseGuid>
+</TestCaseEntity>

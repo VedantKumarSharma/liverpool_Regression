@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system should change the color of the product image upon selecting the color.</description>
+   <name>TC_BS_031</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40c8a163-6670-4f7b-a872-c57be43fb24d</testCaseGuid>
+</TestCaseEntity>

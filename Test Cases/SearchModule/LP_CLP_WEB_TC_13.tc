@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system allows the user to navigate to PLP/CLP on clicking the category in the Sub Category content slot  from the L3 category landing page. For Anonymous user</description>
+   <name>LP_CLP_WEB_TC_13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3fcea49-5a06-4365-9e06-628fcef9a523</testCaseGuid>
+</TestCaseEntity>

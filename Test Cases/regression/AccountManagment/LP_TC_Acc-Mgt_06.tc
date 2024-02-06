@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the user is able to login with valid credentials on Checkout Login overlay</description>
+   <name>LP_TC_Acc-Mgt_06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09ff7248-fd18-4680-9928-b1630154f573</testCaseGuid>
+</TestCaseEntity>

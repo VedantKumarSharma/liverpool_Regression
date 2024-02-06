@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;More delivery option&quot; link gets display for the added item in cart</description>
+   <name>TC_GeoLocal_51 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6bb6fb3-09f2-4764-b9c9-b3ce081ae4f4</testCaseGuid>
+</TestCaseEntity>

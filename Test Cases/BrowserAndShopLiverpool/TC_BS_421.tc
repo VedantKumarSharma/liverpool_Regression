@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the behaviour of Mas information link(more information) in description section for SL/BT/MAC items on PDP ,for the conditions 1)when the characters are more than 250
+2)when the characters are less than or equal to 250
+Note : This scenario is applicable for MAC collection PDP and normal PDP</description>
+   <name>TC_BS_421</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d76709cb-9c63-4e9c-a68d-2ace52169cdc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>From the list of addresses in One Page checkout, the option to predetermine other shipping address should appear.</description>
+   <name>TC_175</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9ac8254-7fba-404c-b62e-bcca65b48a49</testCaseGuid>
+</TestCaseEntity>

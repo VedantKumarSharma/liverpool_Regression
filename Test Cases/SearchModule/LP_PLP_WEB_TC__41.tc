@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of the percentage options should be in the below format
+Over 20%
+Over 30%
+.
+,
+Over 90%</description>
+   <name>LP_PLP_WEB_TC__41</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b4e1a2-5992-4327-92fe-70928665af1d</testCaseGuid>
+</TestCaseEntity>

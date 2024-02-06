@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selecciona tu tienda</name>
+   <tag></tag>
+   <elementGuidId>35c4ce26-378f-4da1-9c5b-55d81ccc95ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[4]/div[3]/div/nav/div/div[2]/div/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d345250-c3b1-4f94-b7fc-1b09a14cb224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-1</value>
+      <webElementGuid>a12f99c1-7975-4ba7-8b7e-45a4a7ff42bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selecciona tu tienda</value>
+      <webElementGuid>75d5f9f4-216d-4f6c-9676-26262116462e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid wrap-megamenu d-none d-lg-block&quot;]/div[@class=&quot;o-container container p-0&quot;]/nav[@class=&quot;m-megamenu&quot;]/div[@class=&quot;o-row row align-items-center&quot;]/div[@class=&quot;o-col col-lg-2 col-xl-3&quot;]/div[@class=&quot;row select-favStore&quot;]/div[@class=&quot;d-none d-lg-block col-lg-12 pl-0 pt-1&quot;]/div[@class=&quot;o-nav-desktop-menu text-right&quot;]/div[@class=&quot;a-header__strongLink&quot;]/span[@class=&quot;m-navDesktop__selectstore&quot;]/span[@class=&quot;ml-1&quot;]</value>
+      <webElementGuid>e6bc2cea-fa57-47bc-be0d-d314989d9d66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[4]/div[3]/div/nav/div/div[2]/div/div/div/div/span/span</value>
+      <webElementGuid>875fa5a9-cb3b-454d-8c60-43f987f34559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayuda'])[1]/following::span[2]</value>
+      <webElementGuid>22013599-c29f-4cd5-ba01-7dfbf598df20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas'])[1]/following::span[2]</value>
+      <webElementGuid>24dec9a2-7708-405b-8043-5ef25b10b563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu tienda'])[2]/preceding::span[1]</value>
+      <webElementGuid>213cb806-c1f0-4b1d-8e51-c396f82ee78b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te escuchamos'])[1]/preceding::span[4]</value>
+      <webElementGuid>97cfed0e-8383-4712-aa39-227926c49c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selecciona tu tienda']/parent::*</value>
+      <webElementGuid>1d7d2401-10c5-49bc-98f1-186c96d7757f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>ca3248b6-4c9d-4b35-9105-a313a3b1b07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selecciona tu tienda' or . = 'Selecciona tu tienda')]</value>
+      <webElementGuid>ca7b3e0b-53e1-4f23-b085-c1029fcb278e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

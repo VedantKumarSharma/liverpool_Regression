@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the default card is displayed as default payment method in forma de page page</description>
+   <name>LP_TC_Acc-Mgt_16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b40d2321-cd73-4784-ac6d-3f4c09d1db09</testCaseGuid>
+</TestCaseEntity>

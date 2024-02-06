@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify store with available quantity gets display on searching with CP code, city or store name &quot;view other store&quot; popup</description>
+   <name>TC_GeoLocal_27</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a94f3a73-e0e6-4c55-bc48-8b93ff7f9e22</testCaseGuid>
+</TestCaseEntity>

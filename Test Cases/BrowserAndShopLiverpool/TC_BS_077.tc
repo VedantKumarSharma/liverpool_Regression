@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system makes a local inventory check for the combination of  SL PARENT item with a SL GIFT item in PDP,where the SL PARENT item is with partial inventory and SL GIFT item is in stock</description>
+   <name>TC_BS_077</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>0509c6ca-0bc9-4287-a819-1c3c2a7c8de1</testCaseGuid>
+</TestCaseEntity>

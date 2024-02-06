@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The customer inside the event gift list when select an article appear a modal an inside of it the pink button “Comprar ahora” will appear, it will appear between the name of celebrated person and the “Agregar a mi bolsa” button</description>
+   <name>TC_095</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>387854d6-d5e0-447c-9068-7af6c18d3bf7</testCaseGuid>
+</TestCaseEntity>

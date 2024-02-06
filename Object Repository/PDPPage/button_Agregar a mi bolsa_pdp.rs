@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Agregar a mi bolsa_pdp</name>
+   <tag></tag>
+   <elementGuidId>8809db0a-c230-477c-9499-340ff6594a61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='opc_pdp_addCartButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opc_pdp_addCartButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dcd5d420-66dc-47fc-bdc6-88f9ad2973dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--tertiary mb-3 </value>
+      <webElementGuid>ccae63e0-d319-4172-90d6-83b2886a4ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opc_pdp_addCartButton</value>
+      <webElementGuid>2f9b8fbe-f28d-4d87-b713-c495563867a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agregar a mi bolsa</value>
+      <webElementGuid>2912152f-ecc4-41c2-937b-fe2a534a8f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_pdp_addCartButton&quot;)</value>
+      <webElementGuid>5d8e7e71-34f0-4229-beec-8e42174d0036</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='opc_pdp_addCartButton']</value>
+      <webElementGuid>e6bff919-e8bd-437c-bd4a-a01a3d3ab829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/aside/div/div/aside/div[2]/div/div[2]/button</value>
+      <webElementGuid>dc985806-1dbc-44db-926c-86e480a925e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar ahora'])[2]/following::button[1]</value>
+      <webElementGuid>d0981554-1681-441e-a05e-be66e4e64bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa tu código postal'])[1]/following::button[2]</value>
+      <webElementGuid>48c6f1ef-f198-4f2d-85db-26a927c0b545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar en Wishlist'])[1]/preceding::button[2]</value>
+      <webElementGuid>3e77310f-a254-4dc1-88dd-262d361b3d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de producto'])[2]/preceding::button[3]</value>
+      <webElementGuid>133046bd-a7bd-4706-8253-dd0aeb56c6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>62fccc98-1b4b-4207-8c84-4c1213026449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'opc_pdp_addCartButton' and (text() = 'Agregar a mi bolsa' or . = 'Agregar a mi bolsa')]</value>
+      <webElementGuid>a9a76f1e-eb75-439f-8d5b-72b2abe3fc51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

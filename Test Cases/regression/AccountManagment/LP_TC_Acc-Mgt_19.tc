@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the error message when user enters invalid data while adding Visa card to the account</description>
+   <name>LP_TC_Acc-Mgt_19</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d88e3d6-4fd0-4b49-be07-ebf1c82cac57</testCaseGuid>
+</TestCaseEntity>

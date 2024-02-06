@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify ''Geo location'' popup gets displayed along with Allow and block buttons on accessing the first time</description>
+   <name>TC_GeoLocal_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68cfb17f-8798-4b34-856c-039f3068de35</testCaseGuid>
+</TestCaseEntity>

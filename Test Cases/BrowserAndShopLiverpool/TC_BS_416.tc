@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display and functionality of quantity text box on sticky banner for SL/BT//lense and Technologia items.</description>
+   <name>TC_BS_416</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ff5cb93-be85-41a7-a250-ea6fd5a86e38</testCaseGuid>
+</TestCaseEntity>

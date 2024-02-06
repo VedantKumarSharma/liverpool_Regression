@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Place an order with Bancomer payment</description>
+   <name>Openpay-EndToEndTestCase - QA-BT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e96db8c-8c3b-4ef5-bd30-105c31e479dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bde967f0-3199-408d-857f-87e74f136c6d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9089046-0402-4f9f-9199-9fa99740a0d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee5fc92f-84b0-4371-95f0-ad2db741bc40</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a60557e-8dec-4772-a9fb-5a0ca04d46fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.liverpool.com.mx/tienda/oneCheckout'</defaultValue>
+      <description></description>
+      <id>bde967f0-3199-408d-857f-87e74f136c6d</id>
+      <masked>false</masked>
+      <name>expectedOPCPageUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.liverpool.com.mx/tienda/checkoutOrderConfirmation'</defaultValue>
+      <description></description>
+      <id>d9089046-0402-4f9f-9199-9fa99740a0d9</id>
+      <masked>false</masked>
+      <name>expectedConfirmationUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee5fc92f-84b0-4371-95f0-ad2db741bc40</id>
+      <masked>false</masked>
+      <name>actualMisComprasUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a60557e-8dec-4772-a9fb-5a0ca04d46fb</id>
+      <masked>false</masked>
+      <name>referenceNumber_confirmation</name>
+   </variable>
+</TestCaseEntity>

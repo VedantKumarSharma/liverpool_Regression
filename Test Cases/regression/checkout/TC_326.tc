@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>At the My payment methods section, under the cards button will be an informative module that shows the default alias card on bold pink style showing the last 4 digits of this  card if the user has a card as default.</description>
+   <name>TC_326</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a721d230-0b94-4013-a78a-8081ef5f9550</testCaseGuid>
+</TestCaseEntity>

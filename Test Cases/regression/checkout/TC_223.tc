@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In case of predetermining a C&amp;C store from the list of stores, shouldn´t appear a message about update of the shipping method.</description>
+   <name>TC_223</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a919e946-a324-4cf3-b845-7b6441e9fd5a</testCaseGuid>
+</TestCaseEntity>

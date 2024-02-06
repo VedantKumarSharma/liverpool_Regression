@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Selecciona tu tienda&quot; popup gets display with listed store on clicking allow button in geo local popup</description>
+   <name>TC_GeoLocal_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b0322bc-ddea-4632-b060-ba52ea975e11</testCaseGuid>
+</TestCaseEntity>

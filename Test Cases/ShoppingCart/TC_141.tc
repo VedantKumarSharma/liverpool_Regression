@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the product has a minimum purchase condition, the minimum number of pieces configured for said SKU cannot be reduced in shopping bag and checkout (express checkout, one page)</description>
+   <name>TC_141</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0d77265-011e-478d-a049-8aaa7cd4d27f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;To verify the PDP UI &amp; Content after the below is added to cart:
+- SL PARENT  (In stock)
+- SL GIFT  or BT Gift
+   a.Single gift sku present in the list
+   b. Added sku is in stock
+&quot;</description>
+   <name>TC_BS_114</name>
+   <tag>gwp</tag>
+   <comment></comment>
+   <testCaseGuid>1f659f7f-f8a9-4bcf-9f8b-0b7d5c2b088e</testCaseGuid>
+</TestCaseEntity>

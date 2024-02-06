@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login or guest user should have a option to change a shipping address for another new address.</description>
+   <name>TC_169</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fed111d9-9fa9-4cc8-b45d-efc1e192fbf9</testCaseGuid>
+</TestCaseEntity>

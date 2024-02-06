@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the item has a gift, the inventory will not be validated for the big tickets, be it the main product, the gift or both; it will only be validated for softlines.</description>
+   <name>TC_147</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3998bf66-3733-4d36-ab7e-112be3ffe704</testCaseGuid>
+</TestCaseEntity>
