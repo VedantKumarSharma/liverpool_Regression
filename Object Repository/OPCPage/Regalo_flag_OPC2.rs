@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//span[contains(text(),'Regalo')])[1]</value>
+         <value>(//p[contains(text(),'Regalo')])[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>

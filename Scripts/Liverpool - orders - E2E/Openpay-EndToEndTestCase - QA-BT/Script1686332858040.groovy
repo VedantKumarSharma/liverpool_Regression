@@ -20,7 +20,7 @@ import customkeywords.myKeywords as myKeywords
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dtaqa.liverpool.com.mx/tienda')
+WebUI.navigateToUrl('https://odtaqaa.liverpool.com.mx/tienda')
 
 WebUI.maximizeWindow()
 
@@ -35,8 +35,6 @@ WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('se
 
 WebUI.click(findTestObject('PLPPage/product3_PLP'))
 
-WebUI.delay(3)
-
 not_run: CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
 not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp (1)'), 0)
@@ -47,11 +45,7 @@ not_run: WebUI.click(findTestObject('pdp/button_Agregar a mi bolsa_pdp'))
 
 WebUI.click(findTestObject('PDPPage/AddToCart_PDP'))
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('HomePage/Cart_header'))
-
-WebUI.delay(3)
 
 CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
@@ -71,13 +65,13 @@ not_run: WebUI.verifyElementPresent(findTestObject('CartPage/button_mesaDeRegalo
 
 WebUI.verifyElementPresent(findTestObject('CartPage/button_Mover a Wishlist_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/button_Eliminar_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/button_Eliminar_cart'), 0)
 
 WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprarahora_cart (1)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('CartPage/priceSection_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprar_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprar_cart'), 0)
 
 not_run: WebUI.verifyElementPresent(findTestObject('CartPage/div_Entregaestimada_cart'), 0)
 
@@ -85,7 +79,7 @@ not_run: WebUI.verifyElementPresent(findTestObject('DemoObjects/CartPage/div_car
 
 WebUI.verifyElementPresent(findTestObject('CartPage/button_SeguirComprando_cart'), 0)
 
-WebUI.click(findTestObject('CartPage/button_Comprar_cart (1)'))
+WebUI.click(findTestObject('CartPage/button_Comprar_cart'))
 
 WebUI.delay(3)
 
@@ -109,7 +103,7 @@ WebUI.verifyElementPresent(findTestObject('checkoutpage/productSection_opc'), 0)
 
 WebUI.verifyElementPresent(findTestObject('OPCPage/productImage_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/productName_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('checkoutpage/Product1_Name_OPC'), 0)
 
 WebUI.verifyElementPresent(findTestObject('checkoutpage/productprice_opc'), 0)
 
@@ -119,23 +113,19 @@ WebUI.verifyElementPresent(findTestObject('OPCPage/promotionSection_opc'), 0, Fa
 
 not_run: WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Comprar para mesa de regalos_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Mover a Wishlist_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Mover a Wishlist_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Eliminar_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Eliminar_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc'), 0)
 
 WebUI.click(findTestObject('OPCPage/label_Cambiar_payment_opc'))
 
-WebUI.click(findTestObject('OPCPage/button_Efectivo y Transferencias_payment_opc (1)'))
+WebUI.click(findTestObject('OPCPage/button_Efectivo y Transferencias_payment_opc'))
 
-not_run: WebUI.click(findTestObject('OPCPage/button_Continuar_payment_opc (3)'))
+WebUI.click(findTestObject('OPCPage/button_Continuar_payment_opc'))
 
-WebUI.click(findTestObject('OPCPage/button_Continuar_payment_opc (3)'))
-
-WebUI.delay(4)
-
-WebUI.click(findTestObject('OPCPage/button_Finalizar compra_opc (1)'))
+WebUI.click(findTestObject('OPCPage/button_Finalizar compra_opc'))
 
 WebUI.delay(3)
 
@@ -143,7 +133,7 @@ actualConfirmationUrl = WebUI.getUrl()
 
 CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
-WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/a_Mis compras_confirmation'), 0)
 
@@ -197,7 +187,5 @@ WebUI.verifyElementPresent(findTestObject('MyOrderesPage/productName_misCompras'
 
 WebUI.verifyElementPresent(findTestObject('MyOrderesPage/img_product__image_misCompras'), 0)
 
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/button_Comprar nuevamente__misCompras'), 0)
-
-WebUI.click(findTestObject('MyOrderesPage/button_Ver detalle de compra_misCompras'))
+WebUI.verifyElementPresent(findTestObject('MyOrderesPage/button_Ver detalle de compra_misCompras'), 0)
 

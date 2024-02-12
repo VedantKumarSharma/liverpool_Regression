@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class=&quot;m-flag-item -defaultFlag undefined&quot;])</value>
+         <value>(//p[@class=&quot;a-giftPurchase-text&quot;])</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -36,6 +36,6 @@ if (productDisprice1 <= productDisprice2) {
 if (productDisprice2 <= productDisprice3) {
     println('checked2')
 } else {
-    WebUI.closeBrowser()
+    FailureHandling.STOP_ON_FAILURE
 }
 

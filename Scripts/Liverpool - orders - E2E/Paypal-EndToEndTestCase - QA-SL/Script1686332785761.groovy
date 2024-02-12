@@ -37,43 +37,43 @@ WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('se
 
 not_run: WebUI.verifyElementPresent(findTestObject('PLPPage/div_Marcas_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/div_Precios_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/div_Precios_plp'), 0)
 
 not_run: WebUI.verifyElementPresent(findTestObject('PLPPage/div_Tamao_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/div_Vendido por_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/div_Vendido por_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/label_Color_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/label_Color_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/label_Descuentos_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/label_Descuentos_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/productName_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/productName_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/productImage2_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/productImage2_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/listView_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/listView_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/gridView_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/gridView_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/button_Relevancia_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/button_Relevancia_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/button_Lo Ms Nuevo_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/button_Lo Ms Nuevo_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/button_Mayor precio_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/button_Mayor precio_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/button_Menor precio_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/button_Menor precio_plp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/button_Calificaciones_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/button_Calificaciones_plp'), 0)
 
-WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp (1)'))
+WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp'))
 
 not_run: WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp'))
 
 WebUI.delay(3)
 
-WebUI.verifyElementPresent(findTestObject('PLPPage/a_Limpiar Filtros_plp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PLPPage/a_Limpiar Filtros_plp'), 0)
 
-WebUI.click(findTestObject('PLPPage/a_Limpiar Filtros_plp (1)'))
+WebUI.click(findTestObject('PLPPage/a_Limpiar Filtros_plp'))
 
 not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject('PLPPage/carousel_plp'))
 
@@ -87,13 +87,13 @@ WebUI.click(findTestObject('PDPPage/Size1_PDP'), FailureHandling.OPTIONAL)
 
 not_run: CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
-not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp (1)'), 0)
+not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PDPPage/alternateImages_pdp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('PDPPage/ProductImage_pdp (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('PDPPage/productImage_pdp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PDPPage/Quantity(plus)_PDP'), 0)
 
@@ -135,7 +135,7 @@ CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
 WebUI.verifyElementPresent(findTestObject('CartPage/span_Mi Bolsa_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/myBagImageProduct_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/myBagImageProduct_cart'), 0)
 
 WebUI.verifyElementPresent(findTestObject('CartPage/productName_cart'), 0)
 
@@ -149,13 +149,13 @@ not_run: WebUI.verifyElementPresent(findTestObject('CartPage/button_mesaDeRegalo
 
 WebUI.verifyElementPresent(findTestObject('CartPage/button_Mover a Wishlist_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/button_Eliminar_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/button_Eliminar_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprarahora_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprarahora_cart'), 0)
 
 WebUI.verifyElementPresent(findTestObject('CartPage/priceSection_cart'), 0)
 
-WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprar_cart (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('CartPage/button_Comprar_cart'), 0)
 
 not_run: WebUI.verifyElementPresent(findTestObject('CartPage/div_Entregaestimada_cart'), 0)
 
@@ -163,7 +163,7 @@ not_run: WebUI.verifyElementPresent(findTestObject('DemoObjects/CartPage/div_car
 
 WebUI.verifyElementPresent(findTestObject('CartPage/button_SeguirComprando_cart'), 0)
 
-WebUI.click(findTestObject('CartPage/button_Comprar_cart (1)'))
+WebUI.click(findTestObject('CartPage/button_Comprar_cart'))
 
 WebUI.delay(3)
 
@@ -187,7 +187,7 @@ WebUI.verifyElementPresent(findTestObject('checkoutpage/productSection_opc'), 0)
 
 WebUI.verifyElementPresent(findTestObject('OPCPage/productImage_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/productName_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('checkoutpage/Product1_Name_OPC'), 0)
 
 WebUI.verifyElementPresent(findTestObject('checkoutpage/productprice_opc'), 0)
 
@@ -201,7 +201,7 @@ WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Mover a Wishlist_
 
 WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Eliminar_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc'), 0)
 
 WebUI.click(findTestObject('OPCPage/label_Cambiar_payment_opc'))
 
@@ -225,7 +225,7 @@ actualConfirmationUrl = WebUI.getUrl()
 
 CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
-WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/a_Mis compras_confirmation'), 0)
 

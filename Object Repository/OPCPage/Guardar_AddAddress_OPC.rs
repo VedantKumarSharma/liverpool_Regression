@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>shortName_addAddress_opc</name>
+   <name>Guardar_AddAddress_OPC</name>
    <tag></tag>
-   <elementGuidId>24b997bd-430a-4859-809f-a58a2103ceb5</elementGuidId>
+   <elementGuidId>81094c24-bdff-4a8d-b977-f8f9a3d6b514</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='shortName']</value>
+         <value>(//button[contains(text(),'Guardar')])[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

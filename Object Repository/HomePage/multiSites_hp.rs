@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = 'SuburbiaPottery BarnPottery Barn KidsWilliams SonomaWest ElmGAPBanana Republic' or . = 'SuburbiaPottery BarnPottery Barn KidsWilliams SonomaWest ElmGAPBanana Republic')]</value>
+         <value>//div[@class=&quot;o-container__fluid container-fluid wrap-boutiques d-none d-lg-block&quot;]//div[@class='o-row row']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0a601f0b-3022-4855-b2fd-106d24fdb615</webElementGuid>
+      <webElementGuid>a3eb0729-ad1e-42f1-96b6-74cbb6c2bf26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>o-row row</value>
-      <webElementGuid>826f762b-7eee-47a6-b28b-0442a5da7c2c</webElementGuid>
+      <webElementGuid>fdeb34ab-d4d9-49ab-af24-0dedc441f436</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SuburbiaPottery BarnPottery Barn KidsWilliams SonomaWest ElmGAPBanana Republic</value>
-      <webElementGuid>2b8d5134-e171-491f-ba3a-581296c7b6d7</webElementGuid>
+      <webElementGuid>19bae390-9013-4067-b8b5-37ed8913bc11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid wrap-boutiques d-none d-lg-block&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-boutiques-links&quot;]/div[@class=&quot;o-row row justify-content-between&quot;]/div[@class=&quot;o-col col-lg-8&quot;]/div[@class=&quot;o-row row&quot;]</value>
-      <webElementGuid>9ac00bca-0caf-4c69-8519-46bbb02c7ef3</webElementGuid>
+      <webElementGuid>93eb29fb-cce5-4176-ba11-937841dec5a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/header/div[4]/div/div/div/div/div/div</value>
-      <webElementGuid>b7ce801c-1be1-4ce2-9dc1-b39771ad5a5f</webElementGuid>
+      <webElementGuid>94b2fbd7-db3e-4e3a-9f0e-7089089a367e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/div/div/div</value>
-      <webElementGuid>fdfdfb36-fa65-4e5b-b1b2-790d198d1991</webElementGuid>
+      <webElementGuid>51f72f6a-6120-4665-ab73-529df0a99512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'SuburbiaPottery BarnPottery Barn KidsWilliams SonomaWest ElmGAPBanana Republic' or . = 'SuburbiaPottery BarnPottery Barn KidsWilliams SonomaWest ElmGAPBanana Republic')]</value>
-      <webElementGuid>3d7d19da-f0f2-4856-a20a-8e98e99abab5</webElementGuid>
+      <webElementGuid>bf78360e-b94a-42b5-997a-b95c6109791c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

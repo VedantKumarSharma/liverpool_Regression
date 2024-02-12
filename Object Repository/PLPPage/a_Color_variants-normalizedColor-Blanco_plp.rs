@@ -6,12 +6,12 @@
    <elementGuidId>242f756f-9d29-4fca-aad1-f3b1128fb2f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//ul//li//a[@class='a-productColor__item a-product__color atom-color'])[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#variants-normalizedColor-Blanco</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='a-plp-color']//li[@class='a-productColor__item a-product__color'][2])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>337c4b3b-9213-423e-a87f-6d90b370e7a4</webElementGuid>
+      <webElementGuid>e4d26599-fdc8-4af2-ac37-4445ccb93652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-productColor__item a-product__color atom-color</value>
-      <webElementGuid>e22765b7-a56c-405c-b648-29309c8dcd8d</webElementGuid>
+      <webElementGuid>edccd939-f302-492c-9011-87e636b529f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>variants-normalizedColor-Blanco</value>
-      <webElementGuid>b417fd01-27ff-41ed-9b5a-a0df4bb8b2aa</webElementGuid>
+      <webElementGuid>7d386249-187b-4893-a7d5-39573277de4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-color</name>
       <type>Main</type>
       <value>#ffffff</value>
-      <webElementGuid>055dba97-4bea-47ff-ba9a-22a5d1ae7c1b</webElementGuid>
+      <webElementGuid>6165a373-6a39-431d-b67c-91fb6f481dba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;variants-normalizedColor-Blanco&quot;)</value>
-      <webElementGuid>40722b20-2ec1-40c0-9b26-381392d285ea</webElementGuid>
+      <webElementGuid>b6d623d1-4e59-4484-a081-539e9738beed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='variants-normalizedColor-Blanco']</value>
-      <webElementGuid>0c68b468-94ea-4c86-a9d7-cec81aae30eb</webElementGuid>
+      <webElementGuid>2e3f5d75-797e-4d0d-8a9c-46deccffca25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[4]/aside/div/div/div[26]/div[2]/ul/li/a</value>
-      <webElementGuid>b2ccc7d4-377e-4e7c-bcb8-c0b678874381</webElementGuid>
+      <webElementGuid>f901cbf1-44f1-4f10-9f80-8cfdb3424ca2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[26]/div[2]/ul/li/a</value>
-      <webElementGuid>76758329-477f-4ff9-87c8-c1f4a81c4c16</webElementGuid>
+      <webElementGuid>7ae2f48b-e703-4f1d-8467-073f9797f169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'variants-normalizedColor-Blanco']</value>
-      <webElementGuid>2bfeb03f-b55b-4ab6-80ca-bfed27c9ac2f</webElementGuid>
+      <webElementGuid>5b72032f-27b6-4c3c-9d04-443877b27baa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

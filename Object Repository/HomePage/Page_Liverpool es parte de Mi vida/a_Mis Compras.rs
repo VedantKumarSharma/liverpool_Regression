@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[4]/a</value>
+         <value>//a[@class='a-header__topLink']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>46727889-59cf-4465-9f31-cf6142601769</webElementGuid>
+      <webElementGuid>9920d456-d3ba-4843-ba55-404a31b7e83e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-header__topLink</value>
-      <webElementGuid>9c79a280-2473-45d9-a66e-f0393a76a5fe</webElementGuid>
+      <webElementGuid>20fcf3f0-38d1-4dde-b5f6-70233a87242a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mis Compras</value>
-      <webElementGuid>48b2694f-aec1-4b94-a9d9-e8970362b8cd</webElementGuid>
+      <webElementGuid>5fc8d18f-9ad2-45f3-83a4-e0dd24fa5205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters py-3 py-lg-2&quot;]/div[@class=&quot;o-col col-lg-auto d-none d-lg-flex text-center order-lg-3&quot;]/a[@class=&quot;a-header__topLink&quot;]</value>
-      <webElementGuid>6ee9613a-3be3-43cf-9dc1-c6e270fd95b7</webElementGuid>
+      <webElementGuid>be7d01e3-eb8f-4cab-b6f9-c2bbf244124a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[4]/a</value>
-      <webElementGuid>0c188ab2-dee3-4d08-a6cf-5c0143a95556</webElementGuid>
+      <webElementGuid>e8bbc0d7-c284-4ccc-87e1-09c7743aea65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mis Compras')]</value>
-      <webElementGuid>9f75012b-09a5-49ed-b0b8-e9c0da34acbb</webElementGuid>
+      <webElementGuid>8537b242-ba08-4c47-a869-bbffb161a5ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Banana Republic'])[1]/following::a[2]</value>
-      <webElementGuid>ea83d4f5-686a-4440-a45a-0372f7cd0a5d</webElementGuid>
+      <webElementGuid>c169d1e1-e143-4324-9979-779f16c600a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GAP'])[1]/following::a[3]</value>
-      <webElementGuid>8a909f69-a01b-4c80-ad65-8ee8d6281a55</webElementGuid>
+      <webElementGuid>29ab9ee1-c046-4152-a1bd-f593916a3083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/preceding::a[1]</value>
-      <webElementGuid>020fa28f-4dd6-4627-bdc8-3fb492980e44</webElementGuid>
+      <webElementGuid>83b87324-09d1-42db-b80d-60ab6332e321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorías'])[1]/preceding::a[1]</value>
-      <webElementGuid>1ebe0838-9f5b-4abf-8545-3b9b529ba444</webElementGuid>
+      <webElementGuid>6bb08cbe-1443-4e1c-a529-59d5fd2b7727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mis Compras']/parent::*</value>
-      <webElementGuid>4de7a8d8-fdd2-4342-b2b0-d05255dac117</webElementGuid>
+      <webElementGuid>dfd36ead-bd1a-4e31-8222-bd3737737809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[4]/a</value>
-      <webElementGuid>b01a6e55-2a61-4306-abcd-c031064b7675</webElementGuid>
+      <webElementGuid>d51236a3-1e51-4448-b996-7d891d2404a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Mis Compras' or . = 'Mis Compras')]</value>
-      <webElementGuid>c7693799-595c-471e-b904-c4df88b27a20</webElementGuid>
+      <webElementGuid>8f232e7c-e27d-4e1c-b919-32cf85a3b76f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

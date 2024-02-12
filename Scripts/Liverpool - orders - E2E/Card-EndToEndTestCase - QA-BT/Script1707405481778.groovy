@@ -16,46 +16,114 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import customkeywords.myKeywords as myKeywords
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.navigateToUrl('https://odtaqaa.liverpool.com.mx/tienda')
 
 WebUI.maximizeWindow()
 
-not_run: CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
-
-not_run: WebUI.verifyElementPresent(findTestObject('HomePageShubhum/Logo_hp'))
-
 WebUI.callTestCase(findTestCase('CommonMethods/clickIniciarSession_Header'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
 
 WebUI.callTestCase(findTestCase('CommonMethods/loginFromHomePage'), [('username') : GlobalVariable.username, ('password') : GlobalVariable.password], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'sofa'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CommonMethods/EmptyCart_RunAt_HP'), [:], FailureHandling.OPTIONAL)
 
-not_run: WebUI.verifyElementPresent(findTestObject('PLPPage/div_Marcas_plp'), 0)
+'BT product\r\n'
+WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'Samsung'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PLPPage/product4_PLP'))
+WebUI.click(findTestObject('PLPPage/Sortby_PLP'))
+
+WebUI.click(findTestObject('PLPPage/HighToLowPriceSortby_PLP'))
+
+WebUI.verifyElementPresent(findTestObject('PLPPage/product2_PLP'), 0)
+
+WebUI.callTestCase(findTestCase('CommonMethods/facet(liverpool)_CheckBox_selected_check_PLP'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('PLPPage/product3_PLP'))
 
 WebUI.delay(3)
 
+WebUI.callTestCase(findTestCase('CommonMethods/UpdateQuantity_PDP'), [:], FailureHandling.STOP_ON_FAILURE)
+
 not_run: CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
+WebUI.callTestCase(findTestCase('CommonMethods/Submit_Rating_PDP'), [:], FailureHandling.OPTIONAL)
+
 not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp'), 0)
+
+not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/productImage_pdp'), 0)
+
+not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/Quantity(plus)_PDP'), 0)
+
+not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject('pdp/regularPrice_pdp'))
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/discountPrice_PDP'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/ITRLink_pdp'), 0, FailureHandling.OPTIONAL)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/ratingSection_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/span_Compartir_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/AddToCart_PDP'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/h3_Ofertas y promociones_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/h3_Opiniones del artculo_pdp'), 0)
+
+not_run: WebUI.click(findTestObject('pdp/selectSize1'))
+
+not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/Quantity(plus)_PDP'), 0)
+
+not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject('pdp/regularPrice_pdp'))
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/discountPrice_PDP'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/ITRLink_pdp'), 0, FailureHandling.OPTIONAL)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/ratingSection_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/span_Compartir_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/AddToCart_PDP'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/h3_Ofertas y promociones_pdp'), 0)
+
+WebUI.verifyElementPresent(findTestObject('PDPPage/h3_Opiniones del artculo_pdp'), 0)
+
+not_run: WebUI.click(findTestObject('pdp/selectSize1'))
+
+not_run: WebUI.verifyElementPresent(findTestObject('PDPPage/Quantity(plus)_PDP'), 0)
+
+not_run: WebUI.click(findTestObject('pdp/selectSize1'))
 
 not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject('pdp/carousels_pdp'))
 
 not_run: WebUI.click(findTestObject('pdp/button_Agregar a mi bolsa_pdp'))
 
-WebUI.click(findTestObject('PDPPage/AddToCart_PDP'))
-
-not_run: WebUI.click(findTestObject('HomePageShubhum/bagIcon_hp'))
-
-WebUI.click(findTestObject('HomePage/Cart_header'))
+WebUI.click(findTestObject('PDPPage/close_PDP'), FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
+
+WebUI.click(findTestObject('PDPPage/Colour1_PDP'), FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('PDPPage/close1_PDP'), FailureHandling.OPTIONAL)
+
+WebUI.scrollToElement(findTestObject('PDPPage/AddToCart_PDP'), 0)
+
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('PDPPage/AddToCart_PDP'))
+
+WebUI.enhancedClick(findTestObject('CartPage/ClosePopupButton_Cart'))
+
+WebUI.click(findTestObject('HomePage/Cart_header'))
 
 CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
 
@@ -123,41 +191,40 @@ WebUI.verifyElementPresent(findTestObject('OPCPage/promotionSection_opc'), 0, Fa
 
 not_run: WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Comprar para mesa de regalos_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Mover a Wishlist_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Mover a Wishlist_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Eliminar_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Eliminar_opc'), 0)
 
 WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc'), 0)
 
-WebUI.click(findTestObject('OPCPage/label_Cambiar_payment_opc'))
+WebUI.callTestCase(findTestCase('CommonMethods/cardSelect_card1_CO1'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('CommonMethods/paypal(changepaymentmethod)pay'), [:], FailureHandling.STOP_ON_FAILURE)
+'would show if the login user has a default card'
+WebUI.verifyElementPresent(findTestObject('OPCPage/CardLast4Digit_OPC'), 0)
 
-WebUI.delay(3)
+WebUI.verifyElementPresent(findTestObject('OPCPage/card_pink_radiobutton_OPC'), 0)
 
-'verify selection of paypal\r\n'
-WebUI.verifyElementPresent(findTestObject('OPCPage/paypal_label_checkout'), 0)
-
-WebUI.click(findTestObject('OPCPage/TerminarComparar_Checkout'))
+not_run: WebUI.click(findTestObject('OPCPage/final_confirm_order_button_OPC'))
 
 not_run: WebUI.click(findTestObject('OPCPage/button_Continuar_payment_opc'))
 
-WebUI.delay(3)
+WebUI.delay(4)
 
-'verify paypal in confirmation page\r\n'
-WebUI.verifyElementPresent(findTestObject('ConfirmationPage/PayPal_img_confirm_page'), 0)
+WebUI.click(findTestObject('OPCPage/button_Finalizar compra_opc'))
+
+WebUI.delay(3)
 
 actualConfirmationUrl = WebUI.getUrl()
 
 CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
-
-WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/a_Mis compras_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/productDetailHeading_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/productImage_confirmation'), 0)
+
+WebUI.verifyElementPresent(findTestObject('ConfirmationPage/gracias por comprar_confirmation'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/addressSection_confirmation'), 0)
 
@@ -167,49 +234,11 @@ WebUI.verifyElementPresent(findTestObject('ConfirmationPage/totalPrice_confirmat
 
 not_run: WebUI.verifyElementPresent(findTestObject('ConfirmationPage/carousel_confirmation'), 0)
 
-PaypalOrder = WebUI.getText(findTestObject('ConfirmationPage/PaypalOrderNumber_ConfirmationPage'))
+CardOrder = WebUI.getText(findTestObject('ConfirmationPage/PaypalOrderNumber_ConfirmationPage'))
 
 WebUI.verifyElementPresent(findTestObject('ConfirmationPage/button_Continuar comprando_confirmation'), 0)
 
 WebUI.click(findTestObject('ConfirmationPage/button_Ir a Mis compras_confirmation'))
 
-WebUI.delay(3)
-
-actualMisComprasUrl = WebUI.getUrl()
-
-CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
-
-WebUI.setText(findTestObject('MyOrderesPage/mainSearchbar_misCompras'), PaypalOrder)
-
-WebUI.sendKeys(findTestObject('MyOrderesPage/mainSearchbar_misCompras'), Keys.chord(Keys.ENTER))
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/breadCrumb_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/aside_leftNavigation_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/mainSearchbar_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/span_Filtrar compras_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/productName_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/img_product__image_misCompras'), 0)
-
-WebUI.verifyElementPresent(findTestObject('MyOrderesPage/button_Comprar nuevamente__misCompras'), 0)
-
-WebUI.click(findTestObject('MyOrderesPage/button_Ver detalle de compra_misCompras'))
-
-WebUI.delay(3)
-
-actualMisComprasUrl = WebUI.getUrl()
-
-CustomKeywords.'customkeywords.myKeywords.scrollWindow'()
-
-WebUI.verifyElementPresent(findTestObject('OrderDetailsPage/h1_Detalle de compra_orderDetails'), 0)
-
-WebUI.verifyElementPresent(findTestObject('OrderDetailsPage/addressSection_orderDetails'), 0)
-
-WebUI.verifyElementPresent(findTestObject('OrderDetailsPage/paymentSection_orderDetails'), 0)
-
-WebUI.verifyElementPresent(findTestObject('OrderDetailsPage/productDetails_orderDetails'), 0)
+WebUI.closeBrowser()
 

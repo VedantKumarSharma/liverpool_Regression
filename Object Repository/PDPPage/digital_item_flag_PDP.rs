@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='m-flag-item -defaultFlag undefined']//span[contains(text(),'Descarga Digital')]</value>
+         <value>//span[contains(text(),'Descarga Digital')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

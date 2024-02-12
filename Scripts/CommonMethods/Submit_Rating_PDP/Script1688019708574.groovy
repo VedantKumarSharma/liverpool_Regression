@@ -31,3 +31,5 @@ WebUI.click(findTestObject('PDPPage/SubmitReview_PDP'))
 
 WebUI.verifyElementText(findTestObject('PDPPage/reviewSubmitedText_PDP'), 'Gracias por compartir tu opinión.')
 
+WebUI.click(findTestObject('PDPPage/close_PDP'), FailureHandling.OPTIONAL)
+

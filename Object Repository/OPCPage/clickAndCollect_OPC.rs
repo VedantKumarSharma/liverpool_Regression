@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='col-12 col-lg-6 text-center padded-tabs-mobile']//button[2]</value>
+         <value>//div[@class='col-12 col-lg-6 text-left padded-tabs-mobile']//button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -27,5 +27,5 @@ WebUI.click(findTestObject('HomePage/password'))
 
 WebUI.setText(findTestObject('HomePage/password'), password)
 
-WebUI.click(findTestObject('HomePage/action'))
+WebUI.click(findTestObject('HomePage/inciar'))
 

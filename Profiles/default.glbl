@@ -3,7 +3,7 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://odtaqaa.liverpool.com.mx'</initValue>
@@ -416,7 +416,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'878237582'</initValue>
+      <initValue>'878237582656'</initValue>
       <name>CellPhoneAddAddress</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -426,7 +426,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'982395892'</initValue>
+      <initValue>'9823958926546'</initValue>
       <name>phoneAddAddress</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

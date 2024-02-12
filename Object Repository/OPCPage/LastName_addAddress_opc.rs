@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>shortName_addAddress_opc</name>
+   <name>LastName_addAddress_opc</name>
    <tag></tag>
-   <elementGuidId>24b997bd-430a-4859-809f-a58a2103ceb5</elementGuidId>
+   <elementGuidId>f4001351-9827-423f-96b6-8521fd6d48b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='shortName']</value>
+         <value>//input[@name='lastName']</value>
       </entry>
       <entry>
          <key>BASIC</key>

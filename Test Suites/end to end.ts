@@ -15,7 +15,7 @@
       <guid>4ed7f638-135e-4fed-b5d2-5dd544073070</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Liverpool - orders - E2E/Card-EndToEndTestCase - QA-BT1</testCaseId>
+      <testCaseId>Test Cases/Liverpool - orders - E2E/Card-EndToEndTestCase - QA-BT</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

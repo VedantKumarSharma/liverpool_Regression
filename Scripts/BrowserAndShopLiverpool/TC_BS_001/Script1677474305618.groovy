@@ -25,7 +25,7 @@ WebUI.click(findTestObject('HomePage/CategorasDropDown_HP'))
 
 L1_category = WebUI.getText(findTestObject('HomePage/l1Category_hp'))
 
-WebUI.click(findTestObject('HomePage/L1Category_HP (1)'))
+WebUI.click(findTestObject('HomePage/l1Category_hp'))
 
 'this is only name of category we chose'
 FooterName = WebUI.getText(findTestObject('CLPPage/footer_name_not.com_CLP'), FailureHandling.STOP_ON_FAILURE)

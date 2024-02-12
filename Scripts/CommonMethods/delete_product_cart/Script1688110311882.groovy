@@ -21,7 +21,7 @@ a = WebUI.getText(findTestObject('CartPage/product1_name_cart'), FailureHandling
 
 WebUI.enhancedClick(findTestObject('CartPage/Product1_remove_cart'), FailureHandling.STOP_ON_FAILURE)
 
-B = WebUI.getText(findTestObject('CartPage/product1_name_cart'))
+B = WebUI.getText(findTestObject('CartPage/product2_Name_Mybag_cart'))
 
 assert a == B
 

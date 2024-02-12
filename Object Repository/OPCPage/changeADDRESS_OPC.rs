@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@class='text-shutdown-card cambiarLabelTxt']</value>
+         <value>(//label[@class='text-shutdown-card cambiarLabelTxt'])[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p[@class='a-inlineElement a-inlineElement--enphasis']</value>
+         <value>(//p[@class='a-inlineElement a-inlineElement--enphasis liverpool no-witdh'])[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
