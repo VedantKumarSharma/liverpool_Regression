@@ -42,14 +42,12 @@ KeywordUtil.logInfo(noOfProducts)
 
 for (int i = 0; i < noOfProducts; i++) {
     // removeList.get(i).click(); 
-    WebUI.click(findTestObject('CartPage/Product1_remove_cart'))
+    WebUI.click(findTestObject('CartPage/Product1_remove_cart'), FailureHandling.STOP_ON_FAILURE)
 
-    WebUI.delay(2)
-
-    if (noOfProducts == 0) {
-        break
-    }
+ if(noOfProducts < 1) {
+	break;
+}
 }
 
-WebUI.click(findTestObject('CartPage/home_button_(header_liverpool)'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('CartPage/home_button_(header_liverpool)'), FailureHandling.CONTINUE_ON_FAILURE)
 

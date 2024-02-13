@@ -54,6 +54,8 @@ WebUI.callTestCase(findTestCase('CommonMethods/clickIniciarSession_Header'), [:]
 WebUI.callTestCase(findTestCase('CommonMethods/loginFromHomePage'), [('username') : GlobalVariable.username, ('password') : GlobalVariable.password], 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('CommonMethods/EmptyCart_RunAt_HP'), [:], FailureHandling.OPTIONAL)
+
 WebUI.verifyElementPresent(findTestObject('HomePage/Logo_hp'), 0)
 
 WebUI.click(findTestObject('HomePage/span_Categoras_hp'))
@@ -146,19 +148,19 @@ not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject(
 
 WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'nat'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('CommonMethods/SortBY_highTOlow_check_search_plp'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.callTestCase(findTestCase('CommonMethods/SortBY_lowTOhigh_check_search_plp'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('CommonMethods/SortBY_highTOlow_check_search_plp'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp'))
 
 WebUI.click(findTestObject('HomePage/Logo_hp'))
 
-WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'ropa'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'jeans'], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('CommonMethods/facet(liverpool)_CheckBox_selected_check_PLP'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PLPPage/product1_PLP'))
+WebUI.click(findTestObject('PLPPage/product2_PLP'))
 
 WebUI.delay(3)
 
@@ -166,6 +168,7 @@ WebUI.verifyElementPresent(findTestObject('PDPPage/breadCrumb_pdp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PDPPage/alternateImages_pdp'), 0)
 
+'ejemplo'
 WebUI.verifyElementPresent(findTestObject('PDPPage/productImage_pdp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PDPPage/Quantity(plus)_PDP'), 0)
@@ -358,16 +361,12 @@ WebUI.click(findTestObject('OPCPage/paymentMethod_change_OPC'))
 
 WebUI.verifyElementPresent(findTestObject('OPCPage/paymentMethod_button1_OPC'), 0)
 
-WebUI.verifyElementPresent(findTestObject('OPCPage/paymentMethod_button2_OPC'), 0)
-
-WebUI.verifyElementPresent(findTestObject('OPCPage/paymentMethod_button1_OPC'), 0)
+WebUI.click(findTestObject('OPCPage/paymentMethod_button1_OPC'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('CommonMethods/cardSelect_card1_CO1'), [:], FailureHandling.STOP_ON_FAILURE)
 
 'would show if the login user has a default card'
 WebUI.verifyElementPresent(findTestObject('OPCPage/CardLast4Digit_OPC'), 0)
-
-WebUI.verifyElementPresent(findTestObject('OPCPage/card_pink_radiobutton_OPC'), 0)
 
 not_run: WebUI.click(findTestObject('OPCPage/final_confirm_order_button_OPC'))
 

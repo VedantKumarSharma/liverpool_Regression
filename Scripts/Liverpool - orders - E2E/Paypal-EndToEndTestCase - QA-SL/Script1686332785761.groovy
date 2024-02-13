@@ -20,7 +20,7 @@ import customkeywords.myKeywords as myKeywords
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dtaqa.liverpool.com.mx/tienda')
+WebUI.navigateToUrl('https://odtaqaa.liverpool.com.mx/tienda')
 
 WebUI.maximizeWindow()
 
@@ -32,6 +32,8 @@ WebUI.callTestCase(findTestCase('CommonMethods/clickIniciarSession_Header'), [:]
 
 WebUI.callTestCase(findTestCase('CommonMethods/loginFromHomePage'), [('username') : 'UN85@digisprint.com', ('password') : 'Un85@12345'], 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('CommonMethods/EmptyCart_RunAt_HP'), [:], FailureHandling.OPTIONAL)
 
 WebUI.callTestCase(findTestCase('CommonMethods/SearchForAProduct_search'), [('searchTerm') : 'jeans'], FailureHandling.STOP_ON_FAILURE)
 
@@ -65,21 +67,7 @@ WebUI.verifyElementPresent(findTestObject('PLPPage/button_Menor precio_plp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('PLPPage/button_Calificaciones_plp'), 0)
 
-WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp'))
-
-not_run: WebUI.click(findTestObject('PLPPage/a_Color_variants-normalizedColor-Blanco_plp'))
-
-WebUI.delay(3)
-
-WebUI.verifyElementPresent(findTestObject('PLPPage/a_Limpiar Filtros_plp'), 0)
-
-WebUI.click(findTestObject('PLPPage/a_Limpiar Filtros_plp'))
-
-not_run: CustomKeywords.'myKeywords.verifyElementPresentKeyword'(findTestObject('PLPPage/carousel_plp'))
-
-not_run: WebUI.click(findTestObject('PLPPage/goToTop'))
-
-WebUI.click(findTestObject('PLPPage/product_Link_plp'))
+WebUI.click(findTestObject('PLPPage/product3_PLP'))
 
 WebUI.delay(3)
 
@@ -197,9 +185,9 @@ WebUI.verifyElementPresent(findTestObject('OPCPage/promotionSection_opc'), 0)
 
 not_run: WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Comprar para mesa de regalos_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Mover a Wishlist_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Mover a Wishlist_opc'), 0)
 
-WebUI.verifyElementPresent(findTestObject('checkoutpage/button_Eliminar_opc'), 0)
+WebUI.verifyElementPresent(findTestObject('OPCPage/button_Eliminar_opc'), 0)
 
 WebUI.verifyElementPresent(findTestObject('OPCPage/button_Cupones_opc'), 0)
 

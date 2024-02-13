@@ -53,6 +53,8 @@ WebUI.callTestCase(findTestCase('CommonMethods/clickIniciarSession_Header'), [:]
 WebUI.callTestCase(findTestCase('CommonMethods/loginFromHomePage'), [('username') : 'UN85@digisprint.com', ('password') : 'Un85@12345'], 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('CommonMethods/EmptyCart_RunAt_HP'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('HomePage/span_Categoras_hp'))
 
 WebUI.click(findTestObject('HomePage/l1Category_hp'))

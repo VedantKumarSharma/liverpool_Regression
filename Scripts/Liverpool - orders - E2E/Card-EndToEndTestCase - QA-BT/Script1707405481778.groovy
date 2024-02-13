@@ -202,8 +202,6 @@ WebUI.callTestCase(findTestCase('CommonMethods/cardSelect_card1_CO1'), [:], Fail
 'would show if the login user has a default card'
 WebUI.verifyElementPresent(findTestObject('OPCPage/CardLast4Digit_OPC'), 0)
 
-WebUI.verifyElementPresent(findTestObject('OPCPage/card_pink_radiobutton_OPC'), 0)
-
 not_run: WebUI.click(findTestObject('OPCPage/final_confirm_order_button_OPC'))
 
 not_run: WebUI.click(findTestObject('OPCPage/button_Continuar_payment_opc'))

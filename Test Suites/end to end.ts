@@ -6,20 +6,20 @@
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
-   <pageLoadTimeout>30</pageLoadTimeout>
-   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <pageLoadTimeout>7</pageLoadTimeout>
+   <pageLoadTimeoutDefault>false</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>5fc8c988-cda1-457e-adde-8f0a52011807</testSuiteGuid>
    <testCaseLink>
-      <guid>4ed7f638-135e-4fed-b5d2-5dd544073070</guid>
+      <guid>6a9138ba-1887-4cba-88dd-9526fce0f3ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Card-EndToEndTestCase - QA-BT</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8b58c4d8-f61c-47d5-b357-77f06ac873a9</guid>
+      <guid>bb2574a2-7a1f-45ac-973c-8dd48764f66a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Card-EndToEndTestCase - QA-SL</testCaseId>
@@ -56,7 +56,14 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>496e5009-d95a-46fd-83b9-21408cd538f8</guid>
+      <guid>6726cdc4-f1b5-499a-af4e-f3efe164eeb4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Liverpool - orders - E2E/EndToEndWithFunctionality_Multi-items</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d5a1f1c8-1d94-4afd-9087-54a62c9eea11</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Openpay-EndToEndTestCase - QA-BT</testCaseId>
@@ -87,7 +94,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>50dd86ec-2222-4232-a302-5229374ef719</guid>
+      <guid>eb1bea22-e3b1-4d0d-aeb5-c5f23d651a6f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Openpay-EndToEndTestCase - QA-SL</testCaseId>
@@ -118,7 +125,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b10c4ee3-c759-4bc2-bb43-2de044871657</guid>
+      <guid>e73e14d0-e79c-4664-824f-7681281e1220</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Paypal-EndToEndTestCase - QA-BT</testCaseId>
@@ -155,7 +162,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>807cdc0d-2c18-407e-83d9-48ae5f980fef</guid>
+      <guid>d2f356b2-4ee0-4c81-96b4-a5abab175f91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Liverpool - orders - E2E/Paypal-EndToEndTestCase - QA-SL</testCaseId>

@@ -29,6 +29,8 @@ WebUI.setText(findTestObject('OPCPage/shortName_addAddress_opc'), StoreValue)
 
 WebUI.setText(findTestObject('checkoutpage/mothersLastName_addAddress_opc'), GlobalVariable.MotherName)
 
+WebUI.setText(findTestObject('OPCPage/LastName_addAddress_opc'), GlobalVariable.MotherName)
+
 WebUI.setText(findTestObject('checkoutpage/postalCode_addAddress_opc'), GlobalVariable.PostalCode)
 
 WebUI.setText(findTestObject('OPCPage/city_addAddress_opc'), GlobalVariable.CityAddAddress)
