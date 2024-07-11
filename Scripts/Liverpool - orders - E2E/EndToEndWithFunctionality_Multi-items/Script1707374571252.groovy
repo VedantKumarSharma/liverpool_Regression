@@ -60,7 +60,7 @@ WebUI.verifyElementPresent(findTestObject('HomePage/Logo_hp'), 0)
 
 WebUI.click(findTestObject('HomePage/span_Categoras_hp'))
 
-WebUI.click(findTestObject('HomePage/l1Category_hp'))
+WebUI.click(findTestObject('HomePage/L2CategoryInFlyout_HP'))
 
 WebUI.verifyElementPresent(findTestObject('BLPPage/breadCrumb_blp'), 0)
 
